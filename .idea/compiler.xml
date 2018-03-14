@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot_freemarker" />
         <module name="springboot_web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="springboot_freemarker" target="1.8" />
       <module name="springboot_web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
