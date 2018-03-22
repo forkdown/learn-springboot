@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/springboot_web/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_webjars/pom.xml" />
       </list>
     </option>
   </component>

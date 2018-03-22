@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot_freemarker/springboot_freemarker.iml" filepath="$PROJECT_DIR$/springboot_freemarker/springboot_freemarker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_learn.iml" filepath="$PROJECT_DIR$/springboot_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_thymeleaf/springboot_thymeleaf.iml" filepath="$PROJECT_DIR$/springboot_thymeleaf/springboot_thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_web/springboot_web.iml" filepath="$PROJECT_DIR$/springboot_web/springboot_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_webjars/springboot_webjars.iml" filepath="$PROJECT_DIR$/springboot_webjars/springboot_webjars.iml" />
     </modules>
   </component>
 </project>
