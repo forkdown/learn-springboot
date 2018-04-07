@@ -6,19 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot_db" />
         <module name="springboot_freemarker" />
         <module name="springboot_internationalization" />
+        <module name="springboot_jpa" />
+        <module name="springboot_mybatis" />
         <module name="springboot_thymeleaf" />
         <module name="springboot_web" />
         <module name="springboot_webjars" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="springboot_db" target="1.8" />
       <module name="springboot_freemarker" target="1.8" />
       <module name="springboot_internationalization" target="1.8" />
+      <module name="springboot_jpa" target="1.8" />
+      <module name="springboot_mybatis" target="1.8" />
       <module name="springboot_thymeleaf" target="1.8" />
       <module name="springboot_web" target="1.8" />
       <module name="springboot_webjars" target="1.8" />
+      <module name="springboot_xml" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
