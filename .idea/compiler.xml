@@ -11,9 +11,11 @@
         <module name="springboot_internationalization" />
         <module name="springboot_jpa" />
         <module name="springboot_mybatis" />
+        <module name="springboot_scheduled" />
         <module name="springboot_thymeleaf" />
         <module name="springboot_web" />
         <module name="springboot_webjars" />
+        <module name="springboot_xml" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +24,7 @@
       <module name="springboot_internationalization" target="1.8" />
       <module name="springboot_jpa" target="1.8" />
       <module name="springboot_mybatis" target="1.8" />
+      <module name="springboot_scheduled" target="1.8" />
       <module name="springboot_thymeleaf" target="1.8" />
       <module name="springboot_web" target="1.8" />
       <module name="springboot_webjars" target="1.8" />
