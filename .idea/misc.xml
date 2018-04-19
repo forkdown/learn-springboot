@@ -13,6 +13,16 @@
         <option value="$PROJECT_DIR$/springboot_jpa/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_scheduled/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_upload_download/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_mail/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_log4j/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_datasources/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_druid/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_admin_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_admin_client/pom.xml" />
       </list>
     </option>
   </component>

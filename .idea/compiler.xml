@@ -6,26 +6,46 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot_actuator" />
+        <module name="springboot_admin_client" />
+        <module name="springboot_admin_server" />
+        <module name="springboot_datasources" />
         <module name="springboot_db" />
+        <module name="springboot_druid" />
         <module name="springboot_freemarker" />
         <module name="springboot_internationalization" />
         <module name="springboot_jpa" />
+        <module name="springboot_log4j" />
+        <module name="springboot_mail" />
         <module name="springboot_mybatis" />
+        <module name="springboot_redis" />
         <module name="springboot_scheduled" />
+        <module name="springboot_swagger2" />
         <module name="springboot_thymeleaf" />
+        <module name="springboot_upload_download" />
         <module name="springboot_web" />
         <module name="springboot_webjars" />
         <module name="springboot_xml" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="springboot_actuator" target="1.8" />
+      <module name="springboot_admin_client" target="1.8" />
+      <module name="springboot_admin_server" target="1.8" />
+      <module name="springboot_datasources" target="1.8" />
       <module name="springboot_db" target="1.8" />
+      <module name="springboot_druid" target="1.8" />
       <module name="springboot_freemarker" target="1.8" />
       <module name="springboot_internationalization" target="1.8" />
       <module name="springboot_jpa" target="1.8" />
+      <module name="springboot_log4j" target="1.8" />
+      <module name="springboot_mail" target="1.8" />
       <module name="springboot_mybatis" target="1.8" />
+      <module name="springboot_redis" target="1.8" />
       <module name="springboot_scheduled" target="1.8" />
+      <module name="springboot_swagger2" target="1.8" />
       <module name="springboot_thymeleaf" target="1.8" />
+      <module name="springboot_upload_download" target="1.8" />
       <module name="springboot_web" target="1.8" />
       <module name="springboot_webjars" target="1.8" />
       <module name="springboot_xml" target="1.8" />
