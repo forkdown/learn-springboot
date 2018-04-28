@@ -7,12 +7,15 @@
     <file url="file://$PROJECT_DIR$/springboot_datasources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_db" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_error" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_interceptor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_internationalization" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_log4j" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mail" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_scheduled" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_swagger2" charset="UTF-8" />
