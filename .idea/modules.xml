@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_actuator/springboot_actuator.iml" filepath="$PROJECT_DIR$/springboot_actuator/springboot_actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_admin_client/springboot_admin_client.iml" filepath="$PROJECT_DIR$/springboot_admin_client/springboot_admin_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_admin_server/springboot_admin_server.iml" filepath="$PROJECT_DIR$/springboot_admin_server/springboot_admin_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_banner/springboot_banner.iml" filepath="$PROJECT_DIR$/springboot_banner/springboot_banner.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_datasources/springboot_datasources.iml" filepath="$PROJECT_DIR$/springboot_datasources/springboot_datasources.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_db/springboot_db.iml" filepath="$PROJECT_DIR$/springboot_db/springboot_db.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_druid/springboot_druid.iml" filepath="$PROJECT_DIR$/springboot_druid/springboot_druid.iml" />
@@ -20,9 +21,11 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_rabbitmq/springboot_rabbitmq.iml" filepath="$PROJECT_DIR$/springboot_rabbitmq/springboot_rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_redis/springboot_redis.iml" filepath="$PROJECT_DIR$/springboot_redis/springboot_redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_scheduled/springboot_scheduled.iml" filepath="$PROJECT_DIR$/springboot_scheduled/springboot_scheduled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_security/springboot_security.iml" filepath="$PROJECT_DIR$/springboot_security/springboot_security.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_swagger2/springboot_swagger2.iml" filepath="$PROJECT_DIR$/springboot_swagger2/springboot_swagger2.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_thymeleaf/springboot_thymeleaf.iml" filepath="$PROJECT_DIR$/springboot_thymeleaf/springboot_thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_upload_download/springboot_upload_download.iml" filepath="$PROJECT_DIR$/springboot_upload_download/springboot_upload_download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_validator/springboot_validator.iml" filepath="$PROJECT_DIR$/springboot_validator/springboot_validator.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_web/springboot_web.iml" filepath="$PROJECT_DIR$/springboot_web/springboot_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_webjars/springboot_webjars.iml" filepath="$PROJECT_DIR$/springboot_webjars/springboot_webjars.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_xml/springboot_xml.iml" filepath="$PROJECT_DIR$/springboot_xml/springboot_xml.iml" />

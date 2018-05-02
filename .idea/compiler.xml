@@ -9,6 +9,7 @@
         <module name="springboot_actuator" />
         <module name="springboot_admin_client" />
         <module name="springboot_admin_server" />
+        <module name="springboot_banner" />
         <module name="springboot_datasources" />
         <module name="springboot_db" />
         <module name="springboot_druid" />
@@ -23,9 +24,11 @@
         <module name="springboot_rabbitmq" />
         <module name="springboot_redis" />
         <module name="springboot_scheduled" />
+        <module name="springboot_security" />
         <module name="springboot_swagger2" />
         <module name="springboot_thymeleaf" />
         <module name="springboot_upload_download" />
+        <module name="springboot_validator" />
         <module name="springboot_web" />
         <module name="springboot_webjars" />
         <module name="springboot_xml" />
@@ -35,6 +38,7 @@
       <module name="springboot_actuator" target="1.8" />
       <module name="springboot_admin_client" target="1.8" />
       <module name="springboot_admin_server" target="1.8" />
+      <module name="springboot_banner" target="1.8" />
       <module name="springboot_datasources" target="1.8" />
       <module name="springboot_db" target="1.8" />
       <module name="springboot_druid" target="1.8" />
@@ -49,9 +53,11 @@
       <module name="springboot_rabbitmq" target="1.8" />
       <module name="springboot_redis" target="1.8" />
       <module name="springboot_scheduled" target="1.8" />
+      <module name="springboot_security" target="1.8" />
       <module name="springboot_swagger2" target="1.8" />
       <module name="springboot_thymeleaf" target="1.8" />
       <module name="springboot_upload_download" target="1.8" />
+      <module name="springboot_validator" target="1.8" />
       <module name="springboot_web" target="1.8" />
       <module name="springboot_webjars" target="1.8" />
       <module name="springboot_xml" target="1.8" />

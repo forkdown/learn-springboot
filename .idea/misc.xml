@@ -26,6 +26,9 @@
         <option value="$PROJECT_DIR$/springboot_rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_interceptor/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_error/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_banner/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_validator/pom.xml" />
       </list>
     </option>
   </component>
