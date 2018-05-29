@@ -29,6 +29,12 @@
         <option value="$PROJECT_DIR$/springboot_security/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_banner/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_validator/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_transactional/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_cache/pom.xml" />
       </list>
     </option>
   </component>

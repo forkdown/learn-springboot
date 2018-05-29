@@ -10,23 +10,29 @@
         <module name="springboot_admin_client" />
         <module name="springboot_admin_server" />
         <module name="springboot_banner" />
+        <module name="springboot_cache" />
         <module name="springboot_datasources" />
         <module name="springboot_db" />
         <module name="springboot_druid" />
+        <module name="springboot_elasticsearch" />
         <module name="springboot_error" />
         <module name="springboot_freemarker" />
         <module name="springboot_interceptor" />
         <module name="springboot_internationalization" />
         <module name="springboot_jpa" />
         <module name="springboot_log4j" />
+        <module name="springboot_lombok" />
         <module name="springboot_mail" />
+        <module name="springboot_mongodb" />
         <module name="springboot_mybatis" />
         <module name="springboot_rabbitmq" />
         <module name="springboot_redis" />
         <module name="springboot_scheduled" />
         <module name="springboot_security" />
+        <module name="springboot_shiro" />
         <module name="springboot_swagger2" />
         <module name="springboot_thymeleaf" />
+        <module name="springboot_transactional" />
         <module name="springboot_upload_download" />
         <module name="springboot_validator" />
         <module name="springboot_web" />
@@ -39,23 +45,29 @@
       <module name="springboot_admin_client" target="1.8" />
       <module name="springboot_admin_server" target="1.8" />
       <module name="springboot_banner" target="1.8" />
+      <module name="springboot_cache" target="1.8" />
       <module name="springboot_datasources" target="1.8" />
       <module name="springboot_db" target="1.8" />
       <module name="springboot_druid" target="1.8" />
+      <module name="springboot_elasticsearch" target="1.8" />
       <module name="springboot_error" target="1.8" />
       <module name="springboot_freemarker" target="1.8" />
       <module name="springboot_interceptor" target="1.8" />
       <module name="springboot_internationalization" target="1.8" />
       <module name="springboot_jpa" target="1.8" />
       <module name="springboot_log4j" target="1.8" />
+      <module name="springboot_lombok" target="1.8" />
       <module name="springboot_mail" target="1.8" />
+      <module name="springboot_mongodb" target="1.8" />
       <module name="springboot_mybatis" target="1.8" />
       <module name="springboot_rabbitmq" target="1.8" />
       <module name="springboot_redis" target="1.8" />
       <module name="springboot_scheduled" target="1.8" />
       <module name="springboot_security" target="1.8" />
+      <module name="springboot_shiro" target="1.8" />
       <module name="springboot_swagger2" target="1.8" />
       <module name="springboot_thymeleaf" target="1.8" />
+      <module name="springboot_transactional" target="1.8" />
       <module name="springboot_upload_download" target="1.8" />
       <module name="springboot_validator" target="1.8" />
       <module name="springboot_web" target="1.8" />
