@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_datasources/springboot_datasources.iml" filepath="$PROJECT_DIR$/springboot_datasources/springboot_datasources.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_db/springboot_db.iml" filepath="$PROJECT_DIR$/springboot_db/springboot_db.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_druid/springboot_druid.iml" filepath="$PROJECT_DIR$/springboot_druid/springboot_druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_dubbo_client/springboot_dubbo_client.iml" filepath="$PROJECT_DIR$/springboot_dubbo_client/springboot_dubbo_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_dubbo_server/springboot_dubbo_server.iml" filepath="$PROJECT_DIR$/springboot_dubbo_server/springboot_dubbo_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_elasticsearch/springboot_elasticsearch.iml" filepath="$PROJECT_DIR$/springboot_elasticsearch/springboot_elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_error/springboot_error.iml" filepath="$PROJECT_DIR$/springboot_error/springboot_error.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_freemarker/springboot_freemarker.iml" filepath="$PROJECT_DIR$/springboot_freemarker/springboot_freemarker.iml" />
