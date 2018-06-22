@@ -11,7 +11,6 @@
     <file url="file://$PROJECT_DIR$/springboot_druid" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_dubbo_client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_dubbo_server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot_dubbo_server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_elasticsearch" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_error" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_freemarker" charset="UTF-8" />
@@ -23,6 +22,8 @@
     <file url="file://$PROJECT_DIR$/springboot_mail" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mongodb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatis_pagehelper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatisplus" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_scheduled" charset="UTF-8" />

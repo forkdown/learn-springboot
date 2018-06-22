@@ -27,6 +27,8 @@
         <module name="springboot_mail" />
         <module name="springboot_mongodb" />
         <module name="springboot_mybatis" />
+        <module name="springboot_mybatis_pagehelper" />
+        <module name="springboot_mybatisplus" />
         <module name="springboot_rabbitmq" />
         <module name="springboot_redis" />
         <module name="springboot_scheduled" />
@@ -64,6 +66,8 @@
       <module name="springboot_mail" target="1.8" />
       <module name="springboot_mongodb" target="1.8" />
       <module name="springboot_mybatis" target="1.8" />
+      <module name="springboot_mybatis_pagehelper" target="1.8" />
+      <module name="springboot_mybatisplus" target="1.8" />
       <module name="springboot_rabbitmq" target="1.8" />
       <module name="springboot_redis" target="1.8" />
       <module name="springboot_scheduled" target="1.8" />

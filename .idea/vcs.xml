@@ -3,7 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/springboot_dubbo_client" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/springboot_dubbo_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_mybatis_pagehelper" vcs="" />
   </component>
 </project>

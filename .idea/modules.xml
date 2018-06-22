@@ -24,6 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_mail/springboot_mail.iml" filepath="$PROJECT_DIR$/springboot_mail/springboot_mail.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_mongodb/springboot_mongodb.iml" filepath="$PROJECT_DIR$/springboot_mongodb/springboot_mongodb.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" filepath="$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_mybatis_pagehelper/springboot_mybatis_pagehelper.iml" filepath="$PROJECT_DIR$/springboot_mybatis_pagehelper/springboot_mybatis_pagehelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_mybatisplus/springboot_mybatisplus.iml" filepath="$PROJECT_DIR$/springboot_mybatisplus/springboot_mybatisplus.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_rabbitmq/springboot_rabbitmq.iml" filepath="$PROJECT_DIR$/springboot_rabbitmq/springboot_rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_redis/springboot_redis.iml" filepath="$PROJECT_DIR$/springboot_redis/springboot_redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_scheduled/springboot_scheduled.iml" filepath="$PROJECT_DIR$/springboot_scheduled/springboot_scheduled.iml" />
