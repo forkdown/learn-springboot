@@ -19,7 +19,7 @@ public class HiHandler {
 
 
     public Mono<ServerResponse> Hi(ServerRequest request) {
-        return ServerResponse.ok().contentType(MediaType.TEXT_PLAIN)
+        return ServerResponse.ok().contentType(MediaType.APPLICATION_JSON)
                 .body(BodyInserters.fromObject("Hi , this is SpringWebFlux"));
     }
 }
