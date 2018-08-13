@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_webflux" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_actuator" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_admin_client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_admin_server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_banner" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_cachecontroller" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_datasources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_db" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_druid" charset="UTF-8" />
@@ -16,7 +19,9 @@
     <file url="file://$PROJECT_DIR$/springboot_freemarker" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_interceptor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_internationalization" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_jdbc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_jsp" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_log4j" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_lombok" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mail" charset="UTF-8" />
@@ -31,6 +36,7 @@
     <file url="file://$PROJECT_DIR$/springboot_shiro" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_swagger2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_tomcat" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_transactional" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_upload_download" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_validator" charset="UTF-8" />
