@@ -9,6 +9,7 @@
         <module name="demo" />
         <module name="springboot2_mongodb" />
         <module name="springboot2_nacos_config" />
+        <module name="springboot2_nacos_discovery" />
         <module name="springboot2_webflux" />
         <module name="springboot_actuator" />
         <module name="springboot_admin_client" />
@@ -58,6 +59,7 @@
       <module name="springboot2_appllo" target="1.8" />
       <module name="springboot2_mongodb" target="1.8" />
       <module name="springboot2_nacos_config" target="1.8" />
+      <module name="springboot2_nacos_discovery" target="1.8" />
       <module name="springboot2_webflux" target="1.8" />
       <module name="springboot_actuator" target="1.8" />
       <module name="springboot_admin_client" target="1.8" />
