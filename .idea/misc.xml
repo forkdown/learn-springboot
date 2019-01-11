@@ -50,6 +50,9 @@
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_cachecontroller/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_nacos_config/pom.xml" />
       </list>
     </option>
   </component>

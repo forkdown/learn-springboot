@@ -3,10 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2_mongodb/springboot2_mongodb.iml" filepath="$PROJECT_DIR$/springboot2_mongodb/springboot2_mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2_nacos_config/springboot2_nacos_config.iml" filepath="$PROJECT_DIR$/springboot2_nacos_config/springboot2_nacos_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_webflux/springboot2_webflux.iml" filepath="$PROJECT_DIR$/springboot2_webflux/springboot2_webflux.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_actuator/springboot_actuator.iml" filepath="$PROJECT_DIR$/springboot_actuator/springboot_actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_admin_client/springboot_admin_client.iml" filepath="$PROJECT_DIR$/springboot_admin_client/springboot_admin_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_admin_server/springboot_admin_server.iml" filepath="$PROJECT_DIR$/springboot_admin_server/springboot_admin_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_aop/springboot_aop.iml" filepath="$PROJECT_DIR$/springboot_aop/springboot_aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_banner/springboot_banner.iml" filepath="$PROJECT_DIR$/springboot_banner/springboot_banner.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_cache/springboot_cache.iml" filepath="$PROJECT_DIR$/springboot_cache/springboot_cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_cachecontroller/springboot_cachecontroller.iml" filepath="$PROJECT_DIR$/springboot_cachecontroller/springboot_cachecontroller.iml" />

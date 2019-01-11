@@ -28,6 +28,9 @@ public class User {
         this.user_password = user_password;
     }
 
+    public User() {
+    }
+
     public int getId() {
         return id;
     }

@@ -7,10 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo" />
+        <module name="springboot2_mongodb" />
+        <module name="springboot2_nacos_config" />
         <module name="springboot2_webflux" />
         <module name="springboot_actuator" />
         <module name="springboot_admin_client" />
         <module name="springboot_admin_server" />
+        <module name="springboot_aop" />
         <module name="springboot_banner" />
         <module name="springboot_cache" />
         <module name="springboot_cachecontroller" />
@@ -52,10 +55,14 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
+      <module name="springboot2_appllo" target="1.8" />
+      <module name="springboot2_mongodb" target="1.8" />
+      <module name="springboot2_nacos_config" target="1.8" />
       <module name="springboot2_webflux" target="1.8" />
       <module name="springboot_actuator" target="1.8" />
       <module name="springboot_admin_client" target="1.8" />
       <module name="springboot_admin_server" target="1.8" />
+      <module name="springboot_aop" target="1.8" />
       <module name="springboot_banner" target="1.8" />
       <module name="springboot_cache" target="1.8" />
       <module name="springboot_cachecontroller" target="1.8" />

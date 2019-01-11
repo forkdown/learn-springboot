@@ -6,6 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
+
 /**
  * @author dalaoyang
  * @Description
@@ -48,8 +51,10 @@ public class CityController {
 
     //http://localhost:8888/getCityById?cityId=3
     @GetMapping(value = "getCityById")
-    public City getCityById(int cityId){
+    public City getCityById(Integer cityId,HttpServletRequest request){
         City city = cityRepository.findOne(cityId);
+        HttpSession session = request.getSession();
+        session.setAttribute(cityId.toString(),city);
         return city;
     }
 }
