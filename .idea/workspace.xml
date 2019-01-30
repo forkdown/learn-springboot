@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="3ecb7321-beef-474a-98c4-98ebc6840891" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/springboot_web/target/" />
+    <ignored path="springboot_learn.iml" />
+    <ignored path="$PROJECT_DIR$/springboot_freemarker/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_thymeleaf/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_webjars/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_internationalization/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_db/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_xml/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_jpa/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_scheduled/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_swagger2/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_upload_download/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_mail/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_log4j/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_datasources/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_druid/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_actuator/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_redis/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_admin_server/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_admin_client/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_rabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_interceptor/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_error/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_security/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_banner/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_validator/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_shiro/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_elasticsearch/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_mongodb/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_lombok/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_transactional/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_cache/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_dubbo_server/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_dubbo_client/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_mybatisplus/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_mybatis_pagehelper/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_webflux/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_cachecontroller/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_tomcat/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_jsp/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_mongodb/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_aop/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_appllo/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_nacos_config/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_nacos_discovery/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_shardingjdbc/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/springboot_learn$SpringbootBannerApplication.ic" NAME="SpringbootBannerApplication Coverage Results" MODIFIED="1525091278267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DataSourceConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/DataSourceConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2807#2808#0" expanded="true" />
+                <element signature="e#2855#2856#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database0Config.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database0Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Springboot2ShardingjdbcFkfbApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/Springboot2ShardingjdbcFkfbApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseShardingAlgorithm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/DatabaseShardingAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TableShardingAlgorithm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/TableShardingAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodsController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database1Config.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database1Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodsRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/repository/GoodsRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="BpmnFile" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>package com\.dalaoyang\.swagger\;\n\nimport com\.dalaoyang\.model\.User\;\nimport com\.dalaoyang\.repository\.UserRepository\;\nimport io\.swagger\.annotations\.\*\;\nimport org\.springframework\.beans\.factory\.annotation\.Autowired\;\nimport org\.springframework\.web\.bind\.annotation\.\*\;\n\nimport java\.util\.List\;\n\n\/\*\*\n \* \@author dalaoyang\n \* \@Description\n \* \@project springboot_learn\n \* \@package com\.dalaoyang\.swagger\n \* \@email yangyang\@dalaoyang\.cn\n \* \@date 2018\/4\/9\n \*\/\n    \@RestController\n    \@RequestMapping\(value\=\&quot;\/users\&quot;\)\n    \@Api\(value\=\&quot;用户操作接口\&quot;\,tags\=\{\&quot;用户操作接口\&quot;\}\)\n    public class UserSwagger \{\n\n        \@Autowired\n        UserRepository userRepository\;\n\n        \@ApiOperation\(value\=\&quot;获取用户详细信息\&quot;\, notes\=\&quot;根据用户的id来获取用户详细信息\&quot;\)\n        \@ApiImplicitParam\(name \= \&quot;id\&quot;\, value \= \&quot;用户ID\&quot;\, required \= true\,paramType \= \&quot;query\&quot;\, dataType \= \&quot;Integer\&quot;\)\n        \@GetMapping\(value\=\&quot;\/findById\&quot;\)\n        public User findById\(\@RequestParam\(value \= \&quot;id\&quot;\)int id\)\{\n            User user \= userRepository\.findById\(id\)\;\n            return user\;\n        \}\n\n        \@ApiOperation\(value\=\&quot;获取用户列表\&quot;\, notes\=\&quot;获取用户列表\&quot;\)\n        \@GetMapping\(value\=\&quot;\/getUserList\&quot;\)\n        public List getUserList\(\)\{\n            return userRepository\.findAll\(\)\;\n        \}\n\n\n        \@ApiOperation\(value\=\&quot;保存用户\&quot;\, notes\=\&quot;保存用户\&quot;\)\n        \@PostMapping\(value\=\&quot;\/saveUser\&quot;\)\n        public String saveUser\(\@RequestBody \@ApiParam\(name\=\&quot;用户对象\&quot;\,value\=\&quot;传入json格式\&quot;\,required\=true\) User user\)\{\n            userRepository\.save\(user\)\;\n            return \&quot;success\!\&quot;\;\n        \}\n\n        \@ApiOperation\(value\=\&quot;修改用户\&quot;\, notes\=\&quot;修改用户\&quot;\)\n        \@ApiImplicitParams\(\{\n                \@ApiImplicitParam\(name\=\&quot;id\&quot;\,value\=\&quot;主键id\&quot;\,required\=true\,paramType\=\&quot;query\&quot;\,dataType\=\&quot;Integer\&quot;\)\,\n                \@ApiImplicitParam\(name\=\&quot;username\&quot;\,value\=\&quot;用户名称\&quot;\,required\=true\,paramType\=\&quot;query\&quot;\,dataType \= \&quot;String\&quot;\)\,\n                \@ApiImplicitParam\(name\=\&quot;password\&quot;\,value\=\&quot;用户密码\&quot;\,required\=true\,paramType\=\&quot;query\&quot;\,dataType \= \&quot;String\&quot;\)\n        \}\)\n        \@GetMapping\(value\=\&quot;\/updateUser\&quot;\)\n        public String updateUser\(\@RequestParam\(value \= \&quot;id\&quot;\)int id\,\@RequestParam\(value \= \&quot;username\&quot;\)String username\,\n                                 \@RequestParam\(value \= \&quot;password\&quot;\)String password\)\{\n            User user \= new User\(id\, username\, password\)\;\n            userRepository\.save\(user\)\;\n            return \&quot;success\!\&quot;\;\n        \}\n\n\n        \@ApiOperation\(value\=\&quot;删除用户\&quot;\, notes\=\&quot;根据用户的id来删除用户\&quot;\)\n        \@ApiImplicitParam\(name \= \&quot;id\&quot;\, value \= \&quot;用户ID\&quot;\, required \= true\,paramType \= \&quot;query\&quot;\, dataType \= \&quot;Integer\&quot;\)\n        \@DeleteMapping\(value\=\&quot;\/deleteUserById\&quot;\)\n        public String deleteUserById\(\@RequestParam\(value \= \&quot;id\&quot;\)int id\)\{\n            User user \= userRepository\.findById\(id\)\;\n            userRepository\.delete\(user\)\;\n            return \&quot;success\!\&quot;\;\n        \}\n\n    \}\n</find>
+      <find>configureGlobal</find>
+      <find>doGetAuthorizationInfo</find>
+      <find>chinese</find>
+      <find>getUserList</find>
+      <find>updateUserByUsername</find>
+      <find>@Value</find>
+      <find>createDataSource</find>
+      <find>spring.</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springboot2_appllo/src/main/resources/META-INF/app.properties" />
+        <option value="$PROJECT_DIR$/springboot2_appllo/src/main/resources/apollo-env.properties" />
+        <option value="$PROJECT_DIR$/springboot2_appllo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot2_appllo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_appllo/src/main/java/com/dalaoyang/Springboot2ApplloApplication.java" />
+        <option value="$PROJECT_DIR$/springboot_security/src/main/java/com/dalaoyang/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/springboot2_nacos_config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_nacos_config/src/main/java/com/dalaoyang/controller/ConfigController.java" />
+        <option value="$PROJECT_DIR$/springboot2_nacos_discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_nacos_discovery/src/main/java/com/dalaoyang/controller/DiscoveryController.java" />
+        <option value="$PROJECT_DIR$/springboot2_nacos_config/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot2_nacos_config/src/main/java/com/dalaoyang/Springboot2NacosConfigApplication.java" />
+        <option value="$PROJECT_DIR$/springboot2_nacos_discovery/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot2_nacos_discovery/src/main/java/com/dalaoyang/Springboot2NacosDiscoveryApplication.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/entity/UserInfo.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/entity/Order.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/repository/OrderRepository.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/common/ModuleDatabaseShardingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/common/ModuleTableShardingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/springboot2_shardingjdbcfkfb/entity/Goods.java" />
+        <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/springboot2_shardingjdbcfkfb/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/springboot2_shardingjdbcfkfb/repository/GoodsRepository.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/Springboot2ShardingjdbcApplication.java" />
+        <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/springboot2_shardingjdbcfkfb/Springboot2ShardingJdbcFkfbApplication.java" />
+        <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/test/java/com/dalaoyang/Springboot2ShardingJdbcFkfbApplicationTests.java" />
+        <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/Springboot2ShardingJdbcFkfbApplication.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/ModuleTableShardingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/entity/Goods.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/ModuleTableShardingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/ModuleDatabaseShardingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/repository/GoodsRepository.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/Database0Config.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/Database1Config.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/Springboot2ShardingjdbcFkfbApplication.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database0Config.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database1Config.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/DatabaseShardingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/TableShardingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/maven_repository" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot2_shardingjdbc_fkfb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot2_shardingjdbc_fkfb" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_mybatis_pagehelper/pom.xml&#10;shiro&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_shiro/src/main/java/com/dalaoyang/config/ShiroConfig.java&#10;index&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_upload_download/src/main/resources/templates/index.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springboot_banner/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot_mybatis/src/main/resources/sql" />
+      <recent name="$PROJECT_DIR$/springboot_internationalization/src/main/resources/messages" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dalaoyang.controller" />
+      <recent name="com.dalaoyang.repository" />
+      <recent name="com.dalaoyang.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang" />
+      <recent name="$PROJECT_DIR$/springboot_mybatisplus/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/springboot_mybatis_pagehelper/src/main/java/com/dalaoyang" />
+      <recent name="$PROJECT_DIR$/springboot_mybatis_pagehelper/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot_cache/src/main/java/com/dalaoyang" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot2ShardingjdbcFkfbApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Springboot2ShardingjdbcApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dalaoyang.Springboot2ShardingjdbcApplication" />
+      <module name="springboot2_shardingjdbc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dalaoyang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="springboot_admin_client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+    </configuration>
+    <configuration name="Springboot2MongodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot2_mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2MongodbApplication" />
+    </configuration>
+    <configuration name="Springboot2NacosConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot2_nacos_config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2NacosConfigApplication" />
+    </configuration>
+    <configuration name="Springboot2NacosDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot2_nacos_discovery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dalaoyang.database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2NacosDiscoveryApplication" />
+    </configuration>
+    <configuration name="Springboot2ShardingjdbcFkfbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot2_shardingjdbc_fkfb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2ShardingjdbcFkfbApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="Springboot2WebfluxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot2_webflux" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2WebfluxApplication" />
+    </configuration>
+    <configuration name="SpringbootActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootActuatorApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootAdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_admin_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootAdminClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootAdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_admin_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootAdminServerApplication" />
+    </configuration>
+    <configuration name="SpringbootAopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_aop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootAopApplication" />
+    </configuration>
+    <configuration name="SpringbootBannerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_banner" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootBannerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootCacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootCacheApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootCachecontrollerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_cachecontroller" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootCachecontrollerApplication" />
+    </configuration>
+    <configuration name="SpringbootDatasourcesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_datasources" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootDatasourcesApplication" />
+    </configuration>
+    <configuration name="SpringbootDbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_db" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootDbApplication" />
+    </configuration>
+    <configuration name="SpringbootDruidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootDruidApplication" />
+    </configuration>
+    <configuration name="SpringbootDubboClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_dubbo_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootDubboClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootDubboServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_dubbo_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootDubboServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootElasticsearchApplication" />
+    </configuration>
+    <configuration name="SpringbootErrorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_error" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootErrorApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootFreemarkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootFreemarkerApplication" />
+    </configuration>
+    <configuration name="SpringbootInterceptorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_interceptor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootInterceptorApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootInternationalizationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_internationalization" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootInternationalizationApplication" />
+    </configuration>
+    <configuration name="SpringbootJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootJdbcApplication" />
+    </configuration>
+    <configuration name="SpringbootJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootJpaApplication" />
+    </configuration>
+    <configuration name="SpringbootJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootJspApplication" />
+    </configuration>
+    <configuration name="SpringbootLog4jApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_log4j" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootLog4jApplication" />
+    </configuration>
+    <configuration name="SpringbootLombokApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_lombok" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootLombokApplication" />
+    </configuration>
+    <configuration name="SpringbootMailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_mail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootMailApplication" />
+    </configuration>
+    <configuration name="SpringbootMongodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootMongodbApplication" />
+    </configuration>
+    <configuration name="SpringbootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootMybatisApplication" />
+    </configuration>
+    <configuration name="SpringbootMybatisPagehelperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_mybatis_pagehelper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootMybatisPagehelperApplication" />
+    </configuration>
+    <configuration name="SpringbootMybatisplusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_mybatisplus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootMybatisplusApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootRabbitmqApplication" />
+    </configuration>
+    <configuration name="SpringbootRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootRedisApplication" />
+    </configuration>
+    <configuration name="SpringbootScheduledApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_scheduled" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootScheduledApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootSecurityApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootShiroApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootSwagger2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_swagger2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootSwagger2Application" />
+    </configuration>
+    <configuration name="SpringbootThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootThymeleafApplication" />
+    </configuration>
+    <configuration name="SpringbootTomcatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_tomcat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootTomcatApplication" />
+    </configuration>
+    <configuration name="SpringbootTransactionalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_transactional" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootTransactionalApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootUploadDownloadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_upload_download" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootUploadDownloadApplication" />
+    </configuration>
+    <configuration name="SpringbootValidatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_validator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootValidatorApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="SpringbootWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootWebApplication" />
+    </configuration>
+    <configuration name="SpringbootWebjarsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_webjars" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootWebjarsApplication" />
+    </configuration>
+    <configuration name="SpringbootXmlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_xml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.SpringbootXmlApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Springboot2ShardingjdbcFkfbApplication" />
+      <item itemvalue="Spring Boot.SpringbootWebApplication" />
+      <item itemvalue="Spring Boot.SpringbootFreemarkerApplication" />
+      <item itemvalue="Spring Boot.SpringbootThymeleafApplication" />
+      <item itemvalue="Spring Boot.SpringbootWebjarsApplication" />
+      <item itemvalue="Spring Boot.SpringbootInternationalizationApplication" />
+      <item itemvalue="Spring Boot.SpringbootTransactionalApplication" />
+      <item itemvalue="Spring Boot.SpringbootCacheApplication" />
+      <item itemvalue="Spring Boot.SpringbootDbApplication" />
+      <item itemvalue="Spring Boot.SpringbootMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringbootJpaApplication" />
+      <item itemvalue="Spring Boot.SpringbootScheduledApplication" />
+      <item itemvalue="Spring Boot.SpringbootXmlApplication" />
+      <item itemvalue="Spring Boot.SpringbootSwagger2Application" />
+      <item itemvalue="Spring Boot.SpringbootUploadDownloadApplication" />
+      <item itemvalue="Spring Boot.SpringbootMailApplication" />
+      <item itemvalue="Spring Boot.SpringbootLog4jApplication" />
+      <item itemvalue="Spring Boot.SpringbootDatasourcesApplication" />
+      <item itemvalue="Spring Boot.SpringbootDubboServerApplication" />
+      <item itemvalue="Spring Boot.SpringbootDubboClientApplication" />
+      <item itemvalue="Spring Boot.SpringbootDruidApplication" />
+      <item itemvalue="Spring Boot.SpringbootActuatorApplication" />
+      <item itemvalue="Spring Boot.SpringbootRedisApplication" />
+      <item itemvalue="Spring Boot.SpringbootAdminServerApplication" />
+      <item itemvalue="Spring Boot.SpringbootAdminClientApplication" />
+      <item itemvalue="Spring Boot.SpringbootRabbitmqApplication" />
+      <item itemvalue="Spring Boot.SpringbootInterceptorApplication" />
+      <item itemvalue="Spring Boot.SpringbootErrorApplication" />
+      <item itemvalue="Spring Boot.SpringbootSecurityApplication" />
+      <item itemvalue="Spring Boot.SpringbootBannerApplication" />
+      <item itemvalue="Spring Boot.SpringbootValidatorApplication" />
+      <item itemvalue="Spring Boot.SpringbootShiroApplication" />
+      <item itemvalue="Spring Boot.SpringbootElasticsearchApplication" />
+      <item itemvalue="Spring Boot.SpringbootMongodbApplication" />
+      <item itemvalue="Spring Boot.SpringbootLombokApplication" />
+      <item itemvalue="Spring Boot.SpringbootMybatisplusApplication" />
+      <item itemvalue="Spring Boot.SpringbootMybatisPagehelperApplication" />
+      <item itemvalue="Spring Boot.Springboot2WebfluxApplication" />
+      <item itemvalue="Spring Boot.SpringbootCachecontrollerApplication" />
+      <item itemvalue="Spring Boot.SpringbootJdbcApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.SpringbootTomcatApplication" />
+      <item itemvalue="Spring Boot.SpringbootJspApplication" />
+      <item itemvalue="Spring Boot.Springboot2MongodbApplication" />
+      <item itemvalue="Spring Boot.SpringbootAopApplication" />
+      <item itemvalue="Spring Boot.Springboot2NacosConfigApplication" />
+      <item itemvalue="Spring Boot.Springboot2NacosDiscoveryApplication" />
+      <item itemvalue="Application.Springboot2ShardingjdbcApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Springboot2ShardingjdbcApplication" />
+        <item itemvalue="Spring Boot.Springboot2NacosDiscoveryApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ecb7321-beef-474a-98c4-98ebc6840891" name="Default" comment="" />
+      <created>1520925389336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520925389336</updated>
+      <workItem from="1520925392872" duration="4385000" />
+      <workItem from="1520989618750" duration="7401000" />
+      <workItem from="1521728305871" duration="3088000" />
+      <workItem from="1521767069680" duration="197000" />
+      <workItem from="1522201415090" duration="1925000" />
+      <workItem from="1522203373921" duration="1434000" />
+      <workItem from="1522204966113" duration="3930000" />
+      <workItem from="1522216704932" duration="147000" />
+      <workItem from="1522216901237" duration="14000" />
+      <workItem from="1522216942547" duration="23000" />
+      <workItem from="1522216994066" duration="1135000" />
+      <workItem from="1522218193404" duration="887000" />
+      <workItem from="1522219264828" duration="1838000" />
+      <workItem from="1522316116906" duration="339000" />
+      <workItem from="1522835260734" duration="1219000" />
+      <workItem from="1522899139212" duration="4891000" />
+      <workItem from="1523078373908" duration="258000" />
+      <workItem from="1523078674951" duration="1333000" />
+      <workItem from="1523080080737" duration="6108000" />
+      <workItem from="1523149374117" duration="1147000" />
+      <workItem from="1523176845894" duration="824000" />
+      <workItem from="1523177713393" duration="2879000" />
+      <workItem from="1523255325583" duration="2816000" />
+      <workItem from="1523258200484" duration="898000" />
+      <workItem from="1523261017650" duration="750000" />
+      <workItem from="1523261793748" duration="3260000" />
+      <workItem from="1523326130252" duration="200000" />
+      <workItem from="1523326348068" duration="3907000" />
+      <workItem from="1523339142044" duration="2486000" />
+      <workItem from="1523353728943" duration="314000" />
+      <workItem from="1523354056377" duration="4792000" />
+      <workItem from="1523503081741" duration="4322000" />
+      <workItem from="1523698613166" duration="343000" />
+      <workItem from="1523698970906" duration="1802000" />
+      <workItem from="1524013866879" duration="5730000" />
+      <workItem from="1524099949987" duration="348000" />
+      <workItem from="1524100304257" duration="2066000" />
+      <workItem from="1524102399456" duration="1476000" />
+      <workItem from="1524103890134" duration="2174000" />
+      <workItem from="1524623926128" duration="6718000" />
+      <workItem from="1524827425432" duration="3429000" />
+      <workItem from="1524877826524" duration="3000" />
+      <workItem from="1524898062108" duration="2574000" />
+      <workItem from="1524901828556" duration="79000" />
+      <workItem from="1524901928189" duration="3291000" />
+      <workItem from="1524906844477" duration="5587000" />
+      <workItem from="1524991313189" duration="270000" />
+      <workItem from="1524991589040" duration="2861000" />
+      <workItem from="1525090943256" duration="2786000" />
+      <workItem from="1525173565583" duration="5263000" />
+      <workItem from="1525223952654" duration="6699000" />
+      <workItem from="1525231354044" duration="15735000" />
+      <workItem from="1525328262164" duration="152000" />
+      <workItem from="1525328446446" duration="25000" />
+      <workItem from="1525328504547" duration="153000" />
+      <workItem from="1525328690117" duration="1883000" />
+      <workItem from="1525398313971" duration="1327000" />
+      <workItem from="1525412680359" duration="806000" />
+      <workItem from="1525413562245" duration="8425000" />
+      <workItem from="1525500964568" duration="3560000" />
+      <workItem from="1525535225254" duration="1282000" />
+      <workItem from="1525539019713" duration="58000" />
+      <workItem from="1525678344229" duration="1079000" />
+      <workItem from="1525685427979" duration="519000" />
+      <workItem from="1525686068634" duration="404000" />
+      <workItem from="1525686538274" duration="2303000" />
+      <workItem from="1527145890072" duration="550000" />
+      <workItem from="1527500694923" duration="2513000" />
+      <workItem from="1527557359847" duration="1017000" />
+      <workItem from="1527562219138" duration="7563000" />
+      <workItem from="1527582370844" duration="380000" />
+      <workItem from="1528939464551" duration="649000" />
+      <workItem from="1528940794166" duration="6382000" />
+      <workItem from="1529647437861" duration="425000" />
+      <workItem from="1529647892588" duration="484000" />
+      <workItem from="1529648404229" duration="5040000" />
+      <workItem from="1529653550474" duration="3578000" />
+      <workItem from="1530701341036" duration="695000" />
+      <workItem from="1531290739701" duration="15000" />
+      <workItem from="1531811086876" duration="2935000" />
+      <workItem from="1531815794889" duration="921000" />
+      <workItem from="1531906880222" duration="899000" />
+      <workItem from="1531971404152" duration="1200000" />
+      <workItem from="1532056054928" duration="9194000" />
+      <workItem from="1532074167345" duration="786000" />
+      <workItem from="1535811747615" duration="163000" />
+      <workItem from="1535811916183" duration="8083000" />
+      <workItem from="1536478681643" duration="9905000" />
+      <workItem from="1537074718353" duration="838000" />
+      <workItem from="1540893580112" duration="2057000" />
+      <workItem from="1541847273793" duration="2625000" />
+      <workItem from="1542447462883" duration="768000" />
+      <workItem from="1544845660170" duration="1390000" />
+      <workItem from="1547086259974" duration="1215000" />
+      <workItem from="1547104488644" duration="831000" />
+      <workItem from="1547198845028" duration="3525000" />
+      <workItem from="1547204034892" duration="695000" />
+      <workItem from="1548320720989" duration="170000" />
+      <workItem from="1548386113647" duration="1323000" />
+      <workItem from="1548495085316" duration="5128000" />
+      <workItem from="1548743438659" duration="405000" />
+      <workItem from="1548743891926" duration="4807000" />
+      <workItem from="1548749323286" duration="8728000" />
+      <workItem from="1548769382762" duration="17122000" />
+    </task>
+    <task id="LOCAL-00014" summary="springboot_mail">
+      <created>1523332995754</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1523332995754</updated>
+    </task>
+    <task id="LOCAL-00015" summary="springboot_log4j">
+      <created>1523340853764</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1523340853764</updated>
+    </task>
+    <task id="LOCAL-00016" summary="springboot_datasources">
+      <created>1523503132373</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1523503132374</updated>
+    </task>
+    <task id="LOCAL-00017" summary="springboot_druid">
+      <created>1523512232163</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1523512232163</updated>
+    </task>
+    <task id="LOCAL-00018" summary="springboot_actuator">
+      <created>1523701730287</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1523701730287</updated>
+    </task>
+    <task id="LOCAL-00019" summary="springboot_redis">
+      <created>1524019666590</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1524019666590</updated>
+    </task>
+    <task id="LOCAL-00020" summary="springboot_redis">
+      <created>1524100001217</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1524100001218</updated>
+    </task>
+    <task id="LOCAL-00021" summary="springboot_admin">
+      <created>1524106431986</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1524106431986</updated>
+    </task>
+    <task id="LOCAL-00022" summary="springboot_rabbitmq">
+      <created>1524634198897</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1524634198897</updated>
+    </task>
+    <task id="LOCAL-00023" summary="springboot_interceptor">
+      <created>1524831116624</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1524831116624</updated>
+    </task>
+    <task id="LOCAL-00024" summary="springboot_interceptor">
+      <created>1524899807425</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1524899807425</updated>
+    </task>
+    <task id="LOCAL-00025" summary="springboot_error">
+      <created>1524904234950</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1524904234950</updated>
+    </task>
+    <task id="LOCAL-00026" summary="springboot_error">
+      <created>1524904580698</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1524904580698</updated>
+    </task>
+    <task id="LOCAL-00027" summary="springboot_error">
+      <created>1524904603796</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1524904603796</updated>
+    </task>
+    <task id="LOCAL-00028" summary="springboot_xml">
+      <created>1524908686645</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1524908686645</updated>
+    </task>
+    <task id="LOCAL-00029" summary="springboot_security">
+      <created>1524994800514</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1524994800514</updated>
+    </task>
+    <task id="LOCAL-00030" summary="springboot_security">
+      <created>1525090986560</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1525090986560</updated>
+    </task>
+    <task id="LOCAL-00031" summary="springboot_banner">
+      <created>1525095171052</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1525095171052</updated>
+    </task>
+    <task id="LOCAL-00032" summary="springboot_validator">
+      <created>1525182964214</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1525182964214</updated>
+    </task>
+    <task id="LOCAL-00033" summary="springboot_validator">
+      <created>1525224035185</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1525224035185</updated>
+    </task>
+    <task id="LOCAL-00034" summary="springboot_shiro">
+      <created>1525251998851</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1525251998851</updated>
+    </task>
+    <task id="LOCAL-00035" summary="springboot_shiro">
+      <created>1525254116728</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1525254116728</updated>
+    </task>
+    <task id="LOCAL-00036" summary="springboot_elasticsearch">
+      <created>1525420395490</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1525420395490</updated>
+    </task>
+    <task id="LOCAL-00037" summary="springboot_elasticsearch">
+      <created>1525421256443</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1525421256443</updated>
+    </task>
+    <task id="LOCAL-00038" summary="springboot_mongodb">
+      <created>1525505951036</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1525505951036</updated>
+    </task>
+    <task id="LOCAL-00039" summary="readme">
+      <created>1525537578072</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1525537578072</updated>
+    </task>
+    <task id="LOCAL-00040" summary="springboot_mongodb">
+      <created>1525678398943</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1525678398943</updated>
+    </task>
+    <task id="LOCAL-00041" summary="springboot_lombok">
+      <created>1525688757027</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1525688757027</updated>
+    </task>
+    <task id="LOCAL-00042" summary="springboot_transactional">
+      <created>1527502463302</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1527502463302</updated>
+    </task>
+    <task id="LOCAL-00043" summary="springboot_transactional">
+      <created>1527502553263</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1527502553263</updated>
+    </task>
+    <task id="LOCAL-00044" summary="springboot_cache">
+      <created>1527575708708</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1527575708708</updated>
+    </task>
+    <task id="LOCAL-00045" summary="springboot_cache">
+      <created>1527575732508</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1527575732508</updated>
+    </task>
+    <task id="LOCAL-00046" summary="springboot_cache">
+      <created>1527575764706</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1527575764706</updated>
+    </task>
+    <task id="LOCAL-00047" summary="springboot_dubbo">
+      <created>1528942342341</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1528942342341</updated>
+    </task>
+    <task id="LOCAL-00048" summary="springboot_dubbo">
+      <created>1528942359264</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1528942359264</updated>
+    </task>
+    <task id="LOCAL-00049" summary="springboot_dubbo">
+      <created>1528943190833</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1528943190833</updated>
+    </task>
+    <task id="LOCAL-00050" summary="springboot_dubbo">
+      <created>1528943257649</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1528943257650</updated>
+    </task>
+    <task id="LOCAL-00051" summary="springboot">
+      <created>1529656931563</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1529656931564</updated>
+    </task>
+    <task id="LOCAL-00052" summary="springboot">
+      <created>1529656995240</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1529656995240</updated>
+    </task>
+    <task id="LOCAL-00053" summary="springboot">
+      <created>1529657012919</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1529657012920</updated>
+    </task>
+    <task id="LOCAL-00054" summary="springboot">
+      <created>1529657129314</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1529657129314</updated>
+    </task>
+    <task id="LOCAL-00055" summary="springboot_mybatisplus">
+      <created>1532067258413</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1532067258414</updated>
+    </task>
+    <task id="LOCAL-00056" summary="springboot_aop">
+      <created>1536495075194</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1536495075195</updated>
+    </task>
+    <task id="LOCAL-00057" summary="springboot2_nacos">
+      <created>1547200884748</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1547200884748</updated>
+    </task>
+    <task id="LOCAL-00058" summary="springboot2_nacos">
+      <created>1547202566681</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1547202566681</updated>
+    </task>
+    <task id="LOCAL-00059" summary="springboot2_nacos">
+      <created>1548500874839</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1548500874840</updated>
+    </task>
+    <task id="LOCAL-00060" summary="springboot2_nacos">
+      <created>1548500895762</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1548500895762</updated>
+    </task>
+    <task id="LOCAL-00061" summary="springboot2_nacos">
+      <created>1548743509950</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1548743509950</updated>
+    </task>
+    <task id="LOCAL-00062" summary="springboot2_shardingjdbc_fkfb">
+      <created>1548831870185</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1548831870185</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Springboot2ShardingJdbcFkfbApplicationTests_save - 2019.01.29 at 19h 16m 51s.xml">
+      <configuration name="Springboot2ShardingJdbcFkfbApplicationTests.save" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot2ShardingJdbcFkfbApplicationTests_save - 2019.01.29 at 19h 17m 15s.xml">
+      <configuration name="Springboot2ShardingJdbcFkfbApplicationTests.save" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="275361000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="25" width="1280" height="730" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015625" side_tool="true" weight="0.40600315" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.40210357" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info id="Designer" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984375" weight="0.97868854" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3262295" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.328594" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.71147543" />
+      <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28317153" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="right" id="BPMNPalette" order="5" weight="0.3296875" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3296875" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Image Layers" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" id="BPMN Editor" order="3" visible="true" weight="0.221875" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info id="Designer" order="5" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info active="true" id="BPMN Editor" order="3" visible="true" weight="0.221875" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info id="Image Layers" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.71147543" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3296875" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015625" side_tool="true" weight="0.40600315" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3262295" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="BPMNPalette" order="6" weight="0.3296875" />
+      <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.328594" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.40210357" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28317153" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984375" weight="0.97868854" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/springboot2_appllo" />
+      <path value="$PROJECT_DIR$/springboot2_mongodb" />
+      <path value="$PROJECT_DIR$/springboot2_nacos_config" />
+      <path value="$PROJECT_DIR$/springboot2_nacos_discovery" />
+      <path value="$PROJECT_DIR$/springboot2_shardingjdbc" />
+      <path value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb" />
+    </ignored-roots>
+    <MESSAGE value="springboot_datasources" />
+    <MESSAGE value="springboot_druid" />
+    <MESSAGE value="springboot_actuator" />
+    <MESSAGE value="springboot_redis" />
+    <MESSAGE value="springboot_admin" />
+    <MESSAGE value="springboot_rabbitmq" />
+    <MESSAGE value="springboot_interceptor" />
+    <MESSAGE value="springboot_error" />
+    <MESSAGE value="springboot_xml" />
+    <MESSAGE value="springboot_security" />
+    <MESSAGE value="springboot_banner" />
+    <MESSAGE value="springboot_validator" />
+    <MESSAGE value="springboot_shiro" />
+    <MESSAGE value="springboot_elasticsearch" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="springboot_mongodb" />
+    <MESSAGE value="springboot_lombok" />
+    <MESSAGE value="springboot_transactional" />
+    <MESSAGE value="springboot_cache" />
+    <MESSAGE value="springboot_dubbo" />
+    <MESSAGE value="springboot" />
+    <MESSAGE value="springboot_mybatisplus" />
+    <MESSAGE value="springboot_aop" />
+    <MESSAGE value="springboot2_nacos" />
+    <MESSAGE value="springboot2_shardingjdbc_fkfb" />
+    <option name="LAST_COMMIT_MESSAGE" value="springboot2_shardingjdbc_fkfb" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="52" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springboot2_nacos_discovery/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="42" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/entity/UserInfo.java" />
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/repository/UserRepository.java" />
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/controller/UserController.java" />
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/rule/ShardingRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/keygen/KeyGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_druid/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.9/druid-1.1.9.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="1053" column="16" selection-start-line="1053" selection-start-column="16" selection-end-line="1053" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/ShardingDataSourceFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/entity/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/repository/OrderRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/repository/GoodsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="24" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="56" column="19" selection-start-line="20" selection-start-column="4" selection-end-line="56" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="26" selection-end-line="21" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/test/java/com/dalaoyang/Springboot2ShardingJdbcFkfbApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/Springboot2ShardingJdbcFkfbApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="14" selection-start-line="10" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="8" lean-forward="true" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/entity/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="1447" column="27" selection-start-line="1447" selection-start-column="19" selection-end-line="1447" selection-end-column="27" />
+          <folding>
+            <element signature="e#56437#56438#0" expanded="true" />
+            <element signature="e#56514#56515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/strategy/table/TableShardingAlgorithm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/routing/strategy/ShardingAlgorithm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/strategy/table/SingleKeyTableShardingAlgorithm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="89" lean-forward="true" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/ShardingValue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/test/java/com/dalaoyang/Springboot2ShardingjdbcApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/Springboot2ShardingjdbcApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/config/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/routing/strategy/ShardingStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/jdbc/adapter/AbstractShardingPreparedStatementAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="288" selection-start-line="288" selection-end-line="288" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/jdbc/core/statement/ShardingPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/DatabaseShardingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/strategy/database/SingleKeyDatabaseShardingAlgorithm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="89" lean-forward="true" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/routing/strategy/SingleKeyShardingAlgorithm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/entity/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/common/ModuleTableShardingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/rule/TableRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="217" column="42" selection-start-line="217" selection-start-column="42" selection-end-line="217" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/repository/GoodsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database0Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/Springboot2ShardingjdbcFkfbApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/common/ModuleDatabaseShardingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2807#2808#0" expanded="true" />
+            <element signature="e#2855#2856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/DatabaseShardingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/TableShardingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database1Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>demo:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springboot2_shardingjdbc_fkfb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

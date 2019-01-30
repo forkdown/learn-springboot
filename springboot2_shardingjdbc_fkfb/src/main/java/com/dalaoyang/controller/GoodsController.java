@@ -4,6 +4,7 @@ import com.dalaoyang.entity.Goods;
 import com.dalaoyang.repository.GoodsRepository;
 import com.dangdang.ddframe.rdb.sharding.keygen.KeyGenerator;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -25,7 +26,7 @@ public class GoodsController {
 
     @GetMapping("save")
     public String save(){
-        for(int i= 1 ; i <= 20 ; i ++){
+        for(int i= 1 ; i <= 40 ; i ++){
             Goods goods = new Goods();
             goods.setGoodsId((long) i);
             goods.setGoodsName( "shangpin" + i);
