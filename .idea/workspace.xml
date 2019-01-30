@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="3ecb7321-beef-474a-98c4-98ebc6840891" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/springboot_web/target/" />
@@ -68,100 +68,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataSourceConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/DataSourceConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2807#2808#0" expanded="true" />
-                <element signature="e#2855#2856#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Database0Config.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database0Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Springboot2ShardingjdbcFkfbApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/Springboot2ShardingjdbcFkfbApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DatabaseShardingAlgorithm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/DatabaseShardingAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TableShardingAlgorithm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/TableShardingAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodsController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Database1Config.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database1Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodsRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/repository/GoodsRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="419">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/resources/db/init.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataSourceConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/config/DataSourceConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDataSourceConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/config/TestDataSourceConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="66" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2DataSourceConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/config/Test2DataSourceConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -198,11 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springboot2_appllo/src/main/resources/META-INF/app.properties" />
-        <option value="$PROJECT_DIR$/springboot2_appllo/src/main/resources/apollo-env.properties" />
-        <option value="$PROJECT_DIR$/springboot2_appllo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/springboot2_appllo/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot2_appllo/src/main/java/com/dalaoyang/Springboot2ApplloApplication.java" />
         <option value="$PROJECT_DIR$/springboot_security/src/main/java/com/dalaoyang/config/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/springboot2_nacos_config/pom.xml" />
         <option value="$PROJECT_DIR$/springboot2_nacos_config/src/main/java/com/dalaoyang/controller/ConfigController.java" />
@@ -249,6 +196,11 @@
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/DataSourceConfig.java" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/TableShardingAlgorithm.java" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/config/Test2DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/config/TestDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/resources/db/init.sql" />
       </list>
     </option>
   </component>
@@ -344,56 +296,7 @@
               <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
@@ -402,6 +305,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -462,20 +366,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Springboot2ShardingjdbcFkfbApplication">
+  <component name="RunManager" selected="Spring Boot.SpringbootDatasourcesApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="Springboot2ShardingjdbcApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dalaoyang.Springboot2ShardingjdbcApplication" />
-      <module name="springboot2_shardingjdbc" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dalaoyang.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -798,11 +691,9 @@
       <item itemvalue="Spring Boot.SpringbootAopApplication" />
       <item itemvalue="Spring Boot.Springboot2NacosConfigApplication" />
       <item itemvalue="Spring Boot.Springboot2NacosDiscoveryApplication" />
-      <item itemvalue="Application.Springboot2ShardingjdbcApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Springboot2ShardingjdbcApplication" />
         <item itemvalue="Spring Boot.Springboot2NacosDiscoveryApplication" />
       </list>
     </recent_temporary>
@@ -921,7 +812,7 @@
       <workItem from="1548743438659" duration="405000" />
       <workItem from="1548743891926" duration="4807000" />
       <workItem from="1548749323286" duration="8728000" />
-      <workItem from="1548769382762" duration="17122000" />
+      <workItem from="1548769382762" duration="19601000" />
     </task>
     <task id="LOCAL-00014" summary="springboot_mail">
       <created>1523332995754</created>
@@ -1278,11 +1169,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="275361000" />
+    <option name="totallyTimeSpent" value="277840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="25" width="1280" height="730" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
@@ -1303,7 +1193,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.71147543" />
       <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3295082" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28317153" />
       <window_info anchor="right" id="Bean Validation" order="8" />
       <window_info id="Web" order="4" side_tool="true" />
@@ -1335,7 +1225,7 @@
       <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3296875" />
       <window_info id="UI Designer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="13" visible="true" weight="0.3295082" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -1410,44 +1300,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot2_nacos_discovery/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="42" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/entity/UserInfo.java" />
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/repository/UserRepository.java" />
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/controller/UserController.java" />
-    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/rule/ShardingRule.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/keygen/KeyGenerator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_druid/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.9/druid-1.1.9.jar!/com/alibaba/druid/pool/DruidAbstractDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="1053" column="16" selection-start-line="1053" selection-start-column="16" selection-end-line="1053" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/ShardingDataSourceFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -1733,13 +1585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/Springboot2ShardingjdbcFkfbApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc/src/main/java/com/dalaoyang/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -1799,13 +1644,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/spring-tx/5.0.7.RELEASE/spring-tx-5.0.7.RELEASE-sources.jar!/org/springframework/transaction/annotation/Transactional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-606">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="186">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/Springboot2ShardingjdbcFkfbApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_druid/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/config/Test2DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/config/TestDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/config/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_datasources/src/main/java/com/dalaoyang/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/resources/db/init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
