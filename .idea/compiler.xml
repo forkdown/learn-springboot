@@ -10,6 +10,7 @@
         <module name="springboot2_mongodb" />
         <module name="springboot2_nacos_config" />
         <module name="springboot2_nacos_discovery" />
+        <module name="springboot2_shardingjdbc_dxfl" />
         <module name="springboot2_shardingjdbc_fkfb" />
         <module name="springboot2_webflux" />
         <module name="springboot_actuator" />
@@ -63,6 +64,7 @@
       <module name="springboot2_nacos_discovery" target="1.8" />
       <module name="springboot2_sharding-jdbc-fkfb" target="1.8" />
       <module name="springboot2_shardingjdbc" target="1.8" />
+      <module name="springboot2_shardingjdbc_dxfl" target="1.8" />
       <module name="springboot2_shardingjdbc_fkfb" target="1.8" />
       <module name="springboot2_webflux" target="1.8" />
       <module name="springboot_actuator" target="1.8" />
@@ -107,5 +109,17 @@
       <module name="springboot_webjars" target="1.8" />
       <module name="springboot_xml" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot2_mongodb" options="-parameters" />
+      <module name="springboot2_nacos_config" options="-parameters" />
+      <module name="springboot2_nacos_discovery" options="-parameters" />
+      <module name="springboot2_shardingjdbc_dxfl" options="-parameters" />
+      <module name="springboot2_shardingjdbc_fkfb" options="-parameters" />
+      <module name="springboot2_webflux" options="-parameters" />
+      <module name="springboot_aop" options="-parameters" />
+      <module name="springboot_cachecontroller" options="-parameters" />
+    </option>
   </component>
 </project>

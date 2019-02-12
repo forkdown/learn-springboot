@@ -6,13 +6,13 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
-@SpringBootApplication(exclude={DataSourceAutoConfiguration.class})
+@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 @EnableTransactionManagement(proxyTargetClass = true)
 @EnableConfigurationProperties
-public class Springboot2ShardingjdbcFkfbApplication {
+public class Springboot2ShardingjdbcDxflApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Springboot2ShardingjdbcFkfbApplication.class, args);
+        SpringApplication.run(Springboot2ShardingjdbcDxflApplication.class, args);
     }
 
 }

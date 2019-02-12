@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot2_mongodb/springboot2_mongodb.iml" filepath="$PROJECT_DIR$/springboot2_mongodb/springboot2_mongodb.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_nacos_config/springboot2_nacos_config.iml" filepath="$PROJECT_DIR$/springboot2_nacos_config/springboot2_nacos_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_nacos_discovery/springboot2_nacos_discovery.iml" filepath="$PROJECT_DIR$/springboot2_nacos_discovery/springboot2_nacos_discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/springboot2_shardingjdbc_dxfl.iml" filepath="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/springboot2_shardingjdbc_dxfl.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/springboot2_shardingjdbc_fkfb.iml" filepath="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/springboot2_shardingjdbc_fkfb.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_webflux/springboot2_webflux.iml" filepath="$PROJECT_DIR$/springboot2_webflux/springboot2_webflux.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_actuator/springboot_actuator.iml" filepath="$PROJECT_DIR$/springboot_actuator/springboot_actuator.iml" />

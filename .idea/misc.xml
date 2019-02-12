@@ -55,6 +55,7 @@
         <option value="$PROJECT_DIR$/springboot2_nacos_config/pom.xml" />
         <option value="$PROJECT_DIR$/springboot2_nacos_discovery/pom.xml" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/pom.xml" />
       </list>
     </option>
   </component>
