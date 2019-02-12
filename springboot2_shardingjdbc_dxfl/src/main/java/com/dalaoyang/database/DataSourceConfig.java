@@ -35,6 +35,8 @@ public class DataSourceConfig {
     @Autowired
     private Database1Config database1Config;
 
+    @Autowired
+    private Database2Config database2Config;
 
     @Bean
     public DataSource getDataSource() throws SQLException {
@@ -45,6 +47,8 @@ public class DataSourceConfig {
         //分库设置
         Map<String, DataSource> dataSourceMap = new HashMap<>();
         dataSourceMap.put(database1Config.getDatabaseName(), database1Config.createDataSource());
+        dataSourceMap.put(database2Config.getDatabaseName(), database2Config.createDataSource());
+
         // 获取数据源对象
         DataSource dataSource = MasterSlaveDataSourceFactory.createDataSource("ms",database0Config.getDatabaseName()
                 ,database0Config.createDataSource(), dataSourceMap, MasterSlaveLoadBalanceStrategyType.getDefaultStrategyType());
