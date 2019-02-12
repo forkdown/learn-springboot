@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ecb7321-beef-474a-98c4-98ebc6840891" name="Default" comment="springboot_shardingjdbc_dxfl">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dangdang_sharding_jdbc_core_1_5_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dangdang_sharding_jdbc_core_1_5_4.xml" afterDir="false" />
+    <list default="true" id="3ecb7321-beef-474a-98c4-98ebc6840891" name="Default" comment="add init sql for springboot2_shardingjdbc_dxfl">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -91,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/database/DataSourceConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -121,11 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/resources/db/init.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            <state relative-caret-position="371">
+              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -333,6 +332,33 @@
               <item name="springboot2_shardingjdbc_dxfl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_dxfl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_dxfl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_dxfl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -393,7 +419,7 @@
     <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_mybatis_pagehelper/pom.xml&#10;shiro&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_shiro/src/main/java/com/dalaoyang/config/ShiroConfig.java&#10;index&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_upload_download/src/main/resources/templates/index.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549951932869" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549952188533" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -1019,14 +1045,7 @@
       <workItem from="1549006132523" duration="2002000" />
       <workItem from="1549365650945" duration="166000" />
       <workItem from="1549934236646" duration="201000" />
-      <workItem from="1549934454445" duration="10462000" />
-    </task>
-    <task id="LOCAL-00020" summary="springboot_redis">
-      <created>1524100001217</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1524100001218</updated>
+      <workItem from="1549934454445" duration="10780000" />
     </task>
     <task id="LOCAL-00021" summary="springboot_admin">
       <created>1524106431986</created>
@@ -1364,7 +1383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549942980256</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="add init sql for springboot2_shardingjdbc_dxfl">
+      <created>1549952004494</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1549952004495</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1376,7 +1402,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="295994000" />
+    <option name="totallyTimeSpent" value="296312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="730" extended-state="6" />
@@ -1476,7 +1502,6 @@
       <path value="$PROJECT_DIR$/springboot2_shardingjdbc" />
       <path value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb" />
     </ignored-roots>
-    <MESSAGE value="springboot_admin" />
     <MESSAGE value="springboot_rabbitmq" />
     <MESSAGE value="springboot_interceptor" />
     <MESSAGE value="springboot_error" />
@@ -1501,7 +1526,8 @@
     <MESSAGE value="delete code" />
     <MESSAGE value="markdown更新" />
     <MESSAGE value="springboot_shardingjdbc_dxfl" />
-    <option name="LAST_COMMIT_MESSAGE" value="springboot_shardingjdbc_dxfl" />
+    <MESSAGE value="add init sql for springboot2_shardingjdbc_dxfl" />
+    <option name="LAST_COMMIT_MESSAGE" value="add init sql for springboot2_shardingjdbc_dxfl" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/strategy/table/SingleKeyTableShardingAlgorithm.class">
@@ -1828,16 +1854,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/database/DataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="52" column="68" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/MasterSlaveDataSourceFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
@@ -1854,8 +1870,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/resources/db/init.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="371">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/database/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="52" column="68" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
