@@ -12,7 +12,7 @@ public class User {
     @Id
     private Long id;
 
-    private String city = "";
+    private String city;
 
-    private String name = "";
+    private String name;
 }
