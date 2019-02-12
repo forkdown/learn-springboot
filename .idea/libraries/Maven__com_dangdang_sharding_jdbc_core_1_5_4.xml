@@ -8,6 +8,7 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4-sources.jar!/" />
+      <root url="file://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4" />
     </SOURCES>
   </library>
 </component>
