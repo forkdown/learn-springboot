@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_elasticjob" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot2_mongodb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot2_nacos_config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot2_nacos_discovery" charset="UTF-8" />
@@ -23,6 +24,7 @@
     <file url="file://$PROJECT_DIR$/springboot_elasticsearch" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_error" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_generator" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_interceptor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_internationalization" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_jdbc" charset="UTF-8" />
@@ -32,6 +34,7 @@
     <file url="file://$PROJECT_DIR$/springboot_lombok" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mail" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mongodb2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mybatis_pagehelper" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_mybatisplus" charset="UTF-8" />
