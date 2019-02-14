@@ -36,6 +36,7 @@
         <module name="springboot_jpa" />
         <module name="springboot_jsp" />
         <module name="springboot_log4j" />
+        <module name="springboot_logstash" />
         <module name="springboot_lombok" />
         <module name="springboot_mail" />
         <module name="springboot_mongodb" />
@@ -93,6 +94,7 @@
       <module name="springboot_jpa" target="1.8" />
       <module name="springboot_jsp" target="1.8" />
       <module name="springboot_log4j" target="1.8" />
+      <module name="springboot_logstash" target="1.8" />
       <module name="springboot_lombok" target="1.8" />
       <module name="springboot_mail" target="1.8" />
       <module name="springboot_mongodb" target="1.8" />
@@ -127,6 +129,7 @@
       <module name="springboot2_webflux" options="-parameters" />
       <module name="springboot_aop" options="-parameters" />
       <module name="springboot_cachecontroller" options="-parameters" />
+      <module name="springboot_logstash" options="-parameters" />
       <module name="springboot_mongodb2" options="-parameters" />
     </option>
   </component>

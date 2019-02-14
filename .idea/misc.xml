@@ -59,6 +59,7 @@
         <option value="$PROJECT_DIR$/springboot_mongodb2/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_generator/pom.xml" />
         <option value="$PROJECT_DIR$/springboot2_elasticjob/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_logstash/pom.xml" />
       </list>
     </option>
   </component>
