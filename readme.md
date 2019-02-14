@@ -117,6 +117,8 @@
 
 [SpringBoot使用Sharding-JDBC分库分表](https://www.dalaoyang.cn/article/95)
 
+[SpringBoot使用Sharding-JDBC读写分离](https://www.dalaoyang.cn/article/97)
+
 [SpringBoot使用Nacos服务发现](https://www.dalaoyang.cn/article/94)
 
 [SpringBoot使用Nacos配置中心](https://www.dalaoyang.cn/article/93)
