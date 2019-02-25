@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ecb7321-beef-474a-98c4-98ebc6840891" name="Default" comment="springboot2_elasticjob">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -76,42 +72,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot_logstash/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot_logstash/src/main/resources/logback-spring.xml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="360">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot_logstash/src/main/resources/logstash/springboot.conf">
+        <entry file="file://$PROJECT_DIR$/springboot_xml/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="90">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot_logstash/src/main/java/com/dalaoyang/SpringbootLogstashApplication.java">
+        <entry file="file://$PROJECT_DIR$/springboot_webjars/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-              <folding>
-                <element signature="e#337#338#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_web/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_validator/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_upload_download/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_transactional/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_tomcat/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_thymeleaf/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot_swagger2/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -150,7 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/test/java/com/dalaoyang/Springboot2ShardingJdbcFkfbApplicationTests.java" />
         <option value="$PROJECT_DIR$/springboot2_sharding-jdbc-fkfb/src/main/java/com/dalaoyang/Springboot2ShardingJdbcFkfbApplication.java" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/ModuleTableShardingAlgorithm.java" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/pom.xml" />
@@ -174,7 +228,6 @@
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/resources/db/init.sql" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/DatabaseShardingAlgorithm.java" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/controller/UserController.java" />
         <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/Springboot2ShardingjdbcDxflApplication.java" />
@@ -201,6 +254,8 @@
         <option value="$PROJECT_DIR$/springboot_logstash/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_logstash/src/main/resources/logstash/springboot.conf" />
         <option value="$PROJECT_DIR$/springboot_logstash/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -227,17 +282,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot2_elasticjob" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springboot2_elasticjob" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -257,6 +302,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,61 +314,257 @@
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_logstash" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_mongodb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_nacos_config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_nacos_discovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_dxfl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_shardingjdbc_fkfb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_webflux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_actuator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_admin_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_admin_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_banner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_cachecontroller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_datasources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_druid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_dubbo_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_dubbo_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_elasticsearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_error" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_freemarker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_internationalization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_jpa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_log4j" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
               <item name="springboot_logstash" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_logstash" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_lombok" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_logstash" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_mail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_logstash" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_mongodb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_logstash" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_mongodb2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_logstash" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="logstash" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_mybatis_pagehelper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_mybatisplus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_scheduled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_shiro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_swagger2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_thymeleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_tomcat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_transactional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_upload_download" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_validator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_webjars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot_xml" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -335,7 +578,7 @@
     <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_mybatis_pagehelper/pom.xml&#10;shiro&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_shiro/src/main/java/com/dalaoyang/config/ShiroConfig.java&#10;index&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_upload_download/src/main/resources/templates/index.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550116037687" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551089958615" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -378,7 +621,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootLogstashApplication">
+  <component name="RunManager" selected="Spring Boot.Springboot2ShardingjdbcFkfbApplication">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -463,6 +706,9 @@
       <module name="springboot2_shardingjdbc_fkfb" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2ShardingjdbcFkfbApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="visualVMId" value="42538264087631" />
+      </RunnerSettings>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -864,8 +1110,8 @@
       <item itemvalue="Spring Boot.SpringbootMongodb2Application" />
       <item itemvalue="Spring Boot.SpringbootGeneratorApplication" />
       <item itemvalue="Spring Boot.Springboot2ElasticjobApplication" />
-      <item itemvalue="Spring Boot.Springboot2NacosDiscoveryApplication" />
       <item itemvalue="Spring Boot.SpringbootLogstashApplication" />
+      <item itemvalue="Spring Boot.Springboot2NacosDiscoveryApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -996,21 +1242,9 @@
       <workItem from="1549934454445" duration="14113000" />
       <workItem from="1549967478709" duration="1332000" />
       <workItem from="1550023881644" duration="3783000" />
-      <workItem from="1550115005291" duration="778000" />
-    </task>
-    <task id="LOCAL-00024" summary="springboot_interceptor">
-      <created>1524899807425</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1524899807425</updated>
-    </task>
-    <task id="LOCAL-00025" summary="springboot_error">
-      <created>1524904234950</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1524904234950</updated>
+      <workItem from="1550115005291" duration="1135000" />
+      <workItem from="1550124765384" duration="733000" />
+      <workItem from="1551089297961" duration="601000" />
     </task>
     <task id="LOCAL-00026" summary="springboot_error">
       <created>1524904580698</created>
@@ -1341,7 +1575,21 @@
       <option name="project" value="LOCAL" />
       <updated>1550027467098</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="springboot_logstash">
+      <created>1550116069696</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1550116069699</updated>
+    </task>
+    <task id="LOCAL-00074" summary="update readme.md">
+      <created>1550116097265</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1550116097266</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1353,13 +1601,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="305538000" />
+    <option name="totallyTimeSpent" value="307229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="730" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2815534" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29126215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info active="true" id="BPMN Editor" order="3" visible="true" weight="0.221875" />
@@ -1370,7 +1617,7 @@
       <window_info id="Image Layers" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.71147543" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7105691" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984375" weight="0.7284553" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1384,6 +1631,8 @@
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.3284553" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.3262295" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="16" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="17" weight="0.32954547" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1397,7 +1646,7 @@
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Palette&#9;" order="11" />
       <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3296875" />
-      <window_info anchor="right" id="Maven" order="13" weight="0.32928804" />
+      <window_info anchor="right" id="Maven" order="13" visible="true" weight="0.32928804" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2815534" />
@@ -1453,8 +1702,6 @@
       <path value="$PROJECT_DIR$/springboot2_shardingjdbc" />
       <path value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb" />
     </ignored-roots>
-    <MESSAGE value="springboot_error" />
-    <MESSAGE value="springboot_xml" />
     <MESSAGE value="springboot_security" />
     <MESSAGE value="springboot_banner" />
     <MESSAGE value="springboot_validator" />
@@ -1478,411 +1725,400 @@
     <MESSAGE value="add init sql for springboot2_shardingjdbc_dxfl" />
     <MESSAGE value="delete useless code" />
     <MESSAGE value="springboot2_elasticjob" />
-    <option name="LAST_COMMIT_MESSAGE" value="springboot2_elasticjob" />
+    <MESSAGE value="springboot_logstash" />
+    <MESSAGE value="update readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/repository/GoodsRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="45" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database0Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="27" column="41" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/Database1Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="5" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/controller/GoodsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/springboot2_shardingjdbc_fkfb.iml">
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/mvnw.cmd">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/entity/Goods.java">
+    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/TableShardingAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/config/DatabaseShardingAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="41" column="44" selection-end-line="67" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/database/DataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/rule/ShardingRule.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/SpringBootCondition.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/Springboot2ShardingjdbcFkfbApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="165">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="62" selection-end-column="21" />
-        </state>
-      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/strategy/slave/MasterSlaveLoadBalanceStrategyType.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#742#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/hint/HintManagerHolder.class">
+    <entry file="file://$PROJECT_DIR$/springboot2_webflux/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/resources/db/init.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="45" column="23" lean-forward="true" selection-end-line="75" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/springboot_actuator/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="17" lean-forward="true" selection-end-line="37" selection-end-column="32" />
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/Springboot2ShardingjdbcDxflApplication.java">
+    <entry file="file://$PROJECT_DIR$/springboot_admin_client/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/entity/User.java">
+    <entry file="file://$PROJECT_DIR$/springboot_admin_server/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/repository/UserRepository.java">
+    <entry file="file://$PROJECT_DIR$/springboot_aop/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/database/Database0Config.java">
+    <entry file="file://$PROJECT_DIR$/springboot_banner/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="23" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/database/Database1Config.java">
+    <entry file="file://$PROJECT_DIR$/springboot_cache/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="25" selection-end-line="32" />
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/database/DataSourceConfig.java">
+    <entry file="file://$PROJECT_DIR$/springboot_cachecontroller/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="33" column="31" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/springboot_datasources/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_mybatis/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/springboot_db/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_druid/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_dubbo_client/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_dubbo_server/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_elasticsearch/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_error/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_freemarker/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_generator/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_interceptor/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_internationalization/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_jdbc/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_jdbc/springboot_jdbc.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_mybatis/src/main/java/com/dalaoyang/entity/User.java">
+    <entry file="file://$PROJECT_DIR$/springboot_jpa/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/data/spring-data-commons/2.0.8.RELEASE/spring-data-commons-2.0.8.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+    <entry file="file://$PROJECT_DIR$/springboot_jsp/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/api/MasterSlaveDataSourceFactory.class">
+    <entry file="file://$PROJECT_DIR$/springboot_log4j/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_log4j/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="36" column="208" selection-start-line="36" selection-start-column="196" selection-end-line="36" selection-end-column="208" />
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/sharding-jdbc-core/1.5.4/sharding-jdbc-core-1.5.4.jar!/com/dangdang/ddframe/rdb/sharding/jdbc/core/datasource/MasterSlaveDataSource.class">
+    <entry file="file://$PROJECT_DIR$/springboot_logstash/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="85">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/database/Database2Config.java">
+    <entry file="file://$PROJECT_DIR$/springboot_lombok/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="18" selection-end-line="32" />
+        <state relative-caret-position="150">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_mail/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_mongodb/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot_mongodb2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331" />
-      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/config/SimpleJobConfig.java" />
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/config/RegistryCenterConfig.java" />
-    <entry file="jar://$USER_HOME$/maven_repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/LoggerFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="381" column="24" selection-start-line="381" selection-start-column="18" selection-end-line="381" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/job/MyTestSimpleJob.java" />
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/job/MySimpleJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/config/MyJobConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_dubbo_client/src/main/java/com/dalaoyang/dubbo/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_dubbo_client/src/main/java/com/dalaoyang/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/Springboot2ElasticjobApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/config/JobRegistryCenterConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="80" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot_mybatis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_logstash/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="70">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_mybatis_pagehelper/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_logstash/src/main/java/com/dalaoyang/SpringbootLogstashApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_logstash/src/main/resources/logstash/springboot.conf">
+    <entry file="file://$PROJECT_DIR$/springboot_mybatisplus/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="90">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_logstash/src/main/resources/logback-spring.xml">
+    <entry file="file://$PROJECT_DIR$/springboot_redis/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="90">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_rabbitmq/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_scheduled/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_security/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_shiro/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_swagger2/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_thymeleaf/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_tomcat/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_transactional/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_upload_download/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_validator/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_web/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_webjars/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_xml/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
         </state>
       </provider>
     </entry>

@@ -93,6 +93,7 @@
       <module name="springboot_jdbc" target="1.8" />
       <module name="springboot_jpa" target="1.8" />
       <module name="springboot_jsp" target="1.8" />
+      <module name="springboot_learn" target="1.5" />
       <module name="springboot_log4j" target="1.8" />
       <module name="springboot_logstash" target="1.8" />
       <module name="springboot_lombok" target="1.8" />
