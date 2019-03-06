@@ -11,6 +11,7 @@
         <module name="springboot2_mongodb" />
         <module name="springboot2_nacos_config" />
         <module name="springboot2_nacos_discovery" />
+        <module name="springboot2_prometheus" />
         <module name="springboot2_shardingjdbc_dxfl" />
         <module name="springboot2_shardingjdbc_fkfb" />
         <module name="springboot2_webflux" />
@@ -67,10 +68,12 @@
       <module name="springboot2_mongodb" target="1.8" />
       <module name="springboot2_nacos_config" target="1.8" />
       <module name="springboot2_nacos_discovery" target="1.8" />
+      <module name="springboot2_prometheus" target="1.8" />
       <module name="springboot2_sharding-jdbc-fkfb" target="1.8" />
       <module name="springboot2_shardingjdbc" target="1.8" />
       <module name="springboot2_shardingjdbc_dxfl" target="1.8" />
       <module name="springboot2_shardingjdbc_fkfb" target="1.8" />
+      <module name="springboot2_sofalookout" target="1.8" />
       <module name="springboot2_webflux" target="1.8" />
       <module name="springboot_actuator" target="1.8" />
       <module name="springboot_admin_client" target="1.8" />
@@ -125,8 +128,10 @@
       <module name="springboot2_mongodb" options="-parameters" />
       <module name="springboot2_nacos_config" options="-parameters" />
       <module name="springboot2_nacos_discovery" options="-parameters" />
+      <module name="springboot2_prometheus" options="-parameters" />
       <module name="springboot2_shardingjdbc_dxfl" options="-parameters" />
       <module name="springboot2_shardingjdbc_fkfb" options="-parameters" />
+      <module name="springboot2_sofalookout" options="-parameters" />
       <module name="springboot2_webflux" options="-parameters" />
       <module name="springboot_aop" options="-parameters" />
       <module name="springboot_cachecontroller" options="-parameters" />
