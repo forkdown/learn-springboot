@@ -14,6 +14,7 @@
         <module name="springboot2_prometheus" />
         <module name="springboot2_shardingjdbc_dxfl" />
         <module name="springboot2_shardingjdbc_fkfb" />
+        <module name="springboot2_sofa_lookout" />
         <module name="springboot2_webflux" />
         <module name="springboot_actuator" />
         <module name="springboot_admin_client" />
@@ -73,6 +74,7 @@
       <module name="springboot2_shardingjdbc" target="1.8" />
       <module name="springboot2_shardingjdbc_dxfl" target="1.8" />
       <module name="springboot2_shardingjdbc_fkfb" target="1.8" />
+      <module name="springboot2_sofa_lookout" target="1.8" />
       <module name="springboot2_sofalookout" target="1.8" />
       <module name="springboot2_webflux" target="1.8" />
       <module name="springboot_actuator" target="1.8" />
@@ -131,6 +133,7 @@
       <module name="springboot2_prometheus" options="-parameters" />
       <module name="springboot2_shardingjdbc_dxfl" options="-parameters" />
       <module name="springboot2_shardingjdbc_fkfb" options="-parameters" />
+      <module name="springboot2_sofa_lookout" options="-parameters" />
       <module name="springboot2_sofalookout" options="-parameters" />
       <module name="springboot2_webflux" options="-parameters" />
       <module name="springboot_aop" options="-parameters" />
