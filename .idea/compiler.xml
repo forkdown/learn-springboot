@@ -9,6 +9,7 @@
         <module name="demo" />
         <module name="springboot2_elasticjob" />
         <module name="springboot2_mongodb" />
+        <module name="springboot2_mybatis_cascade" />
         <module name="springboot2_nacos_config" />
         <module name="springboot2_nacos_discovery" />
         <module name="springboot2_prometheus" />
@@ -67,6 +68,7 @@
       <module name="springboot2_appllo" target="1.8" />
       <module name="springboot2_elasticjob" target="1.8" />
       <module name="springboot2_mongodb" target="1.8" />
+      <module name="springboot2_mybatis_cascade" target="1.8" />
       <module name="springboot2_nacos_config" target="1.8" />
       <module name="springboot2_nacos_discovery" target="1.8" />
       <module name="springboot2_prometheus" target="1.8" />
@@ -86,6 +88,7 @@
       <module name="springboot_cachecontroller" target="1.8" />
       <module name="springboot_datasources" target="1.8" />
       <module name="springboot_db" target="1.8" />
+      <module name="springboot_docker" target="1.8" />
       <module name="springboot_druid" target="1.8" />
       <module name="springboot_dubbo_client" target="1.8" />
       <module name="springboot_dubbo_server" target="1.8" />
@@ -108,6 +111,7 @@
       <module name="springboot_mybatis" target="1.8" />
       <module name="springboot_mybatis_pagehelper" target="1.8" />
       <module name="springboot_mybatisplus" target="1.8" />
+      <module name="springboot_package" target="1.8" />
       <module name="springboot_rabbitmq" target="1.8" />
       <module name="springboot_redis" target="1.8" />
       <module name="springboot_scheduled" target="1.8" />
@@ -128,6 +132,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot2_elasticjob" options="-parameters" />
       <module name="springboot2_mongodb" options="-parameters" />
+      <module name="springboot2_mybatis_cascade" options="-parameters" />
       <module name="springboot2_nacos_config" options="-parameters" />
       <module name="springboot2_nacos_discovery" options="-parameters" />
       <module name="springboot2_prometheus" options="-parameters" />
@@ -138,8 +143,10 @@
       <module name="springboot2_webflux" options="-parameters" />
       <module name="springboot_aop" options="-parameters" />
       <module name="springboot_cachecontroller" options="-parameters" />
+      <module name="springboot_docker" options="-parameters" />
       <module name="springboot_logstash" options="-parameters" />
       <module name="springboot_mongodb2" options="-parameters" />
+      <module name="springboot_package" options="-parameters -verbose -bootclasspath /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre\lib\rt.jar;/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre\lib\jce.jar" />
     </option>
   </component>
 </project>
