@@ -8,10 +8,13 @@
         <module>demo</module>
         <module>springboot2_elasticjob</module>
         <module>springboot2_mongodb</module>
+        <module>springboot2_mybatis_cascade</module>
         <module>springboot2_nacos_config</module>
         <module>springboot2_nacos_discovery</module>
+        <module>springboot2_prometheus</module>
         <module>springboot2_shardingjdbc_dxfl</module>
         <module>springboot2_shardingjdbc_fkfb</module>
+        <module>springboot2_sofa_lookout</module>
         <module>springboot2_webflux</module>
         <module>springboot_actuator</module>
         <module>springboot_admin_client</module>
