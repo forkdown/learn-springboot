@@ -64,6 +64,9 @@
         <option value="$PROJECT_DIR$/springboot2_prometheus/pom.xml" />
         <option value="$PROJECT_DIR$/springboot2_sofa_lookout/pom.xml" />
         <option value="$PROJECT_DIR$/springboot2_mybatis_cascade/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_graylog/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_graylog_log4j/pom.xml" />
       </list>
     </option>
   </component>

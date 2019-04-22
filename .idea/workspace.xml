@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ecb7321-beef-474a-98c4-98ebc6840891" name="Default" comment="springboot2_mybatis_cascade">
-      <change afterPath="$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/sql/init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,6 +72,9 @@
     <ignored path="$PROJECT_DIR$/springboot_package/target/" />
     <ignored path="$PROJECT_DIR$/springboot_docker/target/" />
     <ignored path="$PROJECT_DIR$/springboot2_mybatis_cascade/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_jwt/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_graylog/target/" />
+    <ignored path="$PROJECT_DIR$/springboot2_graylog_log4j/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,103 +84,103 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/springboot_learn$SpringbootBannerApplication.ic" NAME="SpringbootBannerApplication Coverage Results" MODIFIED="1525091278267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/entity/User.java">
+        <entry file="file://$PROJECT_DIR$/springboot2_sofa_lookout/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/mapper/UserMapper.xml">
+        <entry file="file://$PROJECT_DIR$/springboot2_graylog/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="229">
+              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_graylog/src/main/resources/logback-spring.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="15" lean-forward="true" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/sql/init.sql">
+        <entry file="file://$PROJECT_DIR$/springboot2_graylog_log4j/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="143" selection-end-column="31" />
+            <state relative-caret-position="281">
+              <caret line="37" column="42" selection-end-line="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/Springboot2MybatisCascadeApplication.java">
+        <entry file="file://$PROJECT_DIR$/springboot2_graylog_log4j/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_graylog/src/main/resources/docker/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_graylog_log4j/src/main/resources/log4j2-spring.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_graylog/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot2_graylog/src/main/java/com/dalaoyang/Springboot2GraylogApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
-                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/dao/UserMapper.java">
+        <entry file="file://$PROJECT_DIR$/springboot2_sofa_lookout/src/main/java/com/dalaoyang/Springboot2SofaLookoutApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/entity/Role.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/entity/City.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -214,15 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang/Springboot2ShardingjdbcFkfbApplication.java" />
-        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/database/Database2Config.java" />
-        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/resources/db/init.sql" />
-        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/database/DataSourceConfig.java" />
-        <option value="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang/entity/User.java" />
-        <option value="$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/config/RegistryCenterConfig.java" />
-        <option value="$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/config/SimpleJobConfig.java" />
         <option value="$PROJECT_DIR$/springboot2_elasticjob/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/job/MyTestSimpleJob.java" />
         <option value="$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/config/StockSimpleJob.java" />
@@ -234,7 +231,6 @@
         <option value="$PROJECT_DIR$/springboot_logstash/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_logstash/src/main/resources/logback-spring.xml" />
         <option value="$PROJECT_DIR$/readme.md" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_logstash/src/main/resources/logstash/springboot.conf" />
         <option value="$PROJECT_DIR$/springboot_logstash/src/main/java/com/dalaoyang/SpringbootLogstashApplication.java" />
         <option value="$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/controller/TestController.java" />
@@ -265,6 +261,16 @@
         <option value="$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/controller/UserController.java" />
         <option value="$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/sql/init.sql" />
+        <option value="$PROJECT_DIR$/springboot2_jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_jwt/src/main/java/com/dalaoyang/Springboot2JwtApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_graylog/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_graylog/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/springboot2_graylog_log4j/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2_graylog_log4j/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot2_graylog/src/main/resources/docker/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/springboot2_graylog/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot2_graylog_log4j/src/main/resources/log4j2-spring.xml" />
       </list>
     </option>
   </component>
@@ -291,17 +297,27 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot2_graylog_log4j" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot2_graylog_log4j" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="730" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -311,6 +327,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,33 +338,25 @@
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_mybatis_cascade" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_graylog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_mybatis_cascade" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_graylog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_mybatis_cascade" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_mybatis_cascade" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_graylog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot2_mybatis_cascade" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_graylog" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -355,54 +364,43 @@
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_graylog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_graylog_log4j" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_graylog_log4j" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_graylog_log4j" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot2_graylog_log4j" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_lombok" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot_lombok" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dalaoyang" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -413,10 +411,11 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="pom&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_mybatis_pagehelper/pom.xml&#10;shiro&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_shiro/src/main/java/com/dalaoyang/config/ShiroConfig.java&#10;index&#9;FILE&#9;file:///Users/dalaoyang/Demo/springboot_learn/springboot_upload_download/src/main/resources/templates/index.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553150722780" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553428984150" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -428,12 +427,11 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang" />
-      <recent name="$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources" />
-      <recent name="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/resources/db" />
-      <recent name="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang" />
-      <recent name="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springboot2_graylog/src/main/resources/docker" />
+      <recent name="$PROJECT_DIR$/springboot_banner/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot_mybatis/src/main/resources/sql" />
+      <recent name="$PROJECT_DIR$/springboot_internationalization/src/main/resources/messages" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.dalaoyang.database" />
@@ -441,10 +439,12 @@
       <recent name="com.dalaoyang.repository" />
       <recent name="com.dalaoyang.entity" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/springboot_banner/src/main/resources" />
-      <recent name="$PROJECT_DIR$/springboot_mybatis/src/main/resources/sql" />
-      <recent name="$PROJECT_DIR$/springboot_internationalization/src/main/resources/messages" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang" />
+      <recent name="$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/resources/db" />
+      <recent name="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/src/main/java/com/dalaoyang" />
+      <recent name="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/src/main/java/com/dalaoyang" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -459,7 +459,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Springboot2MybatisCascadeApplication">
+  <component name="RunManager" selected="Spring Boot.Springboot2GraylogLog4jApplication">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -502,6 +502,27 @@
     <configuration name="Springboot2ElasticjobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot2_elasticjob" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2ElasticjobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot2GraylogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot2_graylog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2GraylogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot2GraylogLog4jApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot2_graylog_log4j" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2GraylogLog4jApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot2JwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot2_jwt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2JwtApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -902,6 +923,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -972,8 +994,11 @@
       <item itemvalue="Spring Boot.SpringbootLogstashApplication" />
       <item itemvalue="Spring Boot.Springboot2PrometheusApplication" />
       <item itemvalue="Spring Boot.Springboot2SofaLookoutApplication" />
-      <item itemvalue="Spring Boot.Springboot2NacosDiscoveryApplication" />
       <item itemvalue="Spring Boot.Springboot2MybatisCascadeApplication" />
+      <item itemvalue="Spring Boot.Springboot2JwtApplication" />
+      <item itemvalue="Spring Boot.Springboot2GraylogApplication" />
+      <item itemvalue="Spring Boot.Springboot2GraylogLog4jApplication" />
+      <item itemvalue="Spring Boot.Springboot2NacosDiscoveryApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -1121,21 +1146,16 @@
       <workItem from="1552966766052" duration="425000" />
       <workItem from="1552967217249" duration="5562000" />
       <workItem from="1553003341623" duration="3462000" />
-      <workItem from="1553138072778" duration="6571000" />
-    </task>
-    <task id="LOCAL-00032" summary="springboot_validator">
-      <created>1525182964214</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1525182964214</updated>
-    </task>
-    <task id="LOCAL-00033" summary="springboot_validator">
-      <created>1525224035185</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1525224035185</updated>
+      <workItem from="1553138072778" duration="6739000" />
+      <workItem from="1553154329232" duration="948000" />
+      <workItem from="1553428302979" duration="783000" />
+      <workItem from="1553652571660" duration="2275000" />
+      <workItem from="1554879810805" duration="2644000" />
+      <workItem from="1555567042872" duration="360000" />
+      <workItem from="1555568049929" duration="3172000" />
+      <workItem from="1555911624274" duration="4570000" />
+      <workItem from="1555917044930" duration="462000" />
+      <workItem from="1555917530749" duration="3129000" />
     </task>
     <task id="LOCAL-00034" summary="springboot_shiro">
       <created>1525251998851</created>
@@ -1466,7 +1486,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553148407166</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="springboot2_mybatis_cascade">
+      <created>1553150924483</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1553150924483</updated>
+    </task>
+    <task id="LOCAL-00082" summary="update parent pom">
+      <created>1553428442076</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1553428442076</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1478,7 +1512,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="352369000" />
+    <option name="totallyTimeSpent" value="370880000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1490,9 +1524,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="731" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="731" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3632686" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26618123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info active="true" id="BPMN Editor" order="3" visible="true" weight="0.221875" />
@@ -1504,7 +1539,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.54545456" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984375" weight="0.7077922" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984375" weight="0.78733766" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
@@ -1532,10 +1567,10 @@
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Palette&#9;" order="11" />
       <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3296875" />
-      <window_info anchor="right" id="Maven" order="13" weight="0.32928804" />
+      <window_info anchor="right" id="Maven" order="13" weight="0.30582523" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3632686" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26618123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info active="true" id="BPMN Editor" order="3" visible="true" weight="0.221875" />
@@ -1547,7 +1582,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.54545456" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4984375" visible="true" weight="0.7077922" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4984375" visible="true" weight="0.58928573" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
@@ -1575,7 +1610,7 @@
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Palette&#9;" order="11" />
       <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.3296875" />
-      <window_info anchor="right" id="Maven" order="13" weight="0.32928804" />
+      <window_info anchor="right" id="Maven" order="13" weight="0.30582523" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1600,7 +1635,6 @@
       <path value="$PROJECT_DIR$/springboot2_shardingjdbc" />
       <path value="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb" />
     </ignored-roots>
-    <MESSAGE value="springboot_elasticsearch" />
     <MESSAGE value="readme" />
     <MESSAGE value="springboot_mongodb" />
     <MESSAGE value="springboot_lombok" />
@@ -1625,125 +1659,10 @@
     <MESSAGE value="springboot2_prometheus" />
     <MESSAGE value="springboot2_sofaloogout" />
     <MESSAGE value="springboot2_mybatis_cascade" />
-    <option name="LAST_COMMIT_MESSAGE" value="springboot2_mybatis_cascade" />
+    <MESSAGE value="update parent pom" />
+    <option name="LAST_COMMIT_MESSAGE" value="update parent pom" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/config/JobRegistryCenterConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" selection-start-line="10" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#632#657#1" expanded="true" />
-            <element signature="e#691#715#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/Springboot2ElasticjobApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="e#343#344#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/com/dangdang/elastic-job-common-core/2.1.5/elastic-job-common-core-2.1.5.jar!/com/dangdang/ddframe/job/config/simple/SimpleJobConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_logstash/src/main/java/com/dalaoyang/SpringbootLogstashApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/config/MyJobConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="51" column="1" selection-start-line="14" selection-end-line="51" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_elasticjob/src/main/java/com/dalaoyang/job/MySimpleJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_sofalookout/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/springboot2_sofalookout/src/main/resources/application.properties" />
-    <entry file="file://$PROJECT_DIR$/springboot2_prometheus/mvnw.cmd">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_package/src/main/java/com/dalaoyang/SpringbootPackageApplication.java" />
-    <entry file="file://$PROJECT_DIR$/springboot_package/src/main/resources/templates/index.html" />
-    <entry file="file://$PROJECT_DIR$/springboot_package/HELP.md" />
-    <entry file="file://$PROJECT_DIR$/springboot_package/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/springboot2_sofa_lookout/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_sofa_lookout/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_prometheus/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_prometheus/src/main/java/com/dalaoyang/Springboot2PrometheusApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_prometheus/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_sofa_lookout/src/main/java/com/dalaoyang/Springboot2SofaLookoutApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot_jsp/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1768,81 +1687,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_docker/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/java/com/dalaoyang/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/java/com/dalaoyang/SpringbootDockerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding>
-            <element signature="e#333#334#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_docker/HELP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/java/com/dalaoyang/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/java/com/dalaoyang/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_docker/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/java/com/dalaoyang/repository/UserRepository.java" />
+    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/java/com/dalaoyang/SpringbootDockerApplication.java" />
+    <entry file="file://$PROJECT_DIR$/springboot_docker/HELP.md" />
+    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/java/com/dalaoyang/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/java/com/dalaoyang/entity/User.java" />
+    <entry file="file://$PROJECT_DIR$/springboot_docker/src/main/resources/application.properties" />
+    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.java" />
     <entry file="file://$PROJECT_DIR$/springboot_redis/src/main/java/com/dalaoyang/controller/CityController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1879,10 +1731,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-289" />
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot_mybatis/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -1891,21 +1743,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/mybatis/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/mybatis/mybatis-config.xml" />
     <entry file="file://$PROJECT_DIR$/springboot_lombok/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="46" selection-end-column="21" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot_lombok/src/main/java/com/dalaoyang/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -1915,6 +1772,26 @@
           <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
             <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1946,13 +1823,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/dao/UserMapper.java">
+    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/sql/init.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="81">
+          <caret line="132" column="20" lean-forward="true" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1966,27 +1840,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/java/com/dalaoyang/controller/UserController.java">
+    <entry file="jar://$USER_HOME$/maven_repository/com/auth0/java-jwt/3.8.0/java-jwt-3.8.0.jar!/com/auth0/jwt/JWTCreator.class" />
+    <entry file="file://$PROJECT_DIR$/springboot2_jwt/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="600">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_jwt/src/main/java/com/dalaoyang/Springboot2JwtApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/mapper/UserMapper.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="450">
+          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2_mybatis_cascade/src/main/resources/sql/init.sql">
+    <entry file="file://$PROJECT_DIR$/springboot_druid/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_druid/src/main/java/com/dalaoyang/config/DruidConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="143" selection-end-column="31" />
+        <state relative-caret-position="1455">
+          <caret line="107" column="63" selection-start-line="107" selection-start-column="43" selection-end-line="107" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_druid/src/main/java/com/dalaoyang/filter/DruidFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_druid/src/main/java/com/dalaoyang/servlet/DruidServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_druid/src/main/java/com/dalaoyang/SpringbootDruidApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sofa_lookout/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sofa_lookout/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_graylog/src/main/java/com/dalaoyang/Springboot2GraylogApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_sofa_lookout/src/main/java/com/dalaoyang/Springboot2SofaLookoutApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_graylog_log4j/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_graylog/src/main/resources/docker/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_graylog/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_graylog/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" lean-forward="true" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_graylog/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_graylog_log4j/src/main/resources/log4j2-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot2_graylog_log4j/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="37" column="42" selection-end-line="64" />
         </state>
       </provider>
     </entry>

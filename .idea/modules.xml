@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_elasticjob/springboot2_elasticjob.iml" filepath="$PROJECT_DIR$/springboot2_elasticjob/springboot2_elasticjob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2_graylog/springboot2_graylog.iml" filepath="$PROJECT_DIR$/springboot2_graylog/springboot2_graylog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2_graylog_log4j/springboot2_graylog_log4j.iml" filepath="$PROJECT_DIR$/springboot2_graylog_log4j/springboot2_graylog_log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2_jwt/springboot2_jwt.iml" filepath="$PROJECT_DIR$/springboot2_jwt/springboot2_jwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_mongodb/springboot2_mongodb.iml" filepath="$PROJECT_DIR$/springboot2_mongodb/springboot2_mongodb.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_mybatis_cascade/springboot2_mybatis_cascade.iml" filepath="$PROJECT_DIR$/springboot2_mybatis_cascade/springboot2_mybatis_cascade.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2_nacos_config/springboot2_nacos_config.iml" filepath="$PROJECT_DIR$/springboot2_nacos_config/springboot2_nacos_config.iml" />

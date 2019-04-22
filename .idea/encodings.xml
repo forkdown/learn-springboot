@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+  <component name="Encoding">
     <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot2_elasticjob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_graylog" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_graylog_log4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_jwt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot2_mongodb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot2_mybatis_cascade" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot2_nacos_config" charset="UTF-8" />
@@ -21,7 +24,6 @@
     <file url="file://$PROJECT_DIR$/springboot_cachecontroller" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_datasources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_db" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot_docker" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_druid" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_dubbo_client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot_dubbo_server" charset="UTF-8" />
